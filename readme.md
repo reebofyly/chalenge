@@ -1,4 +1,4 @@
-# Glossaire des Variables - Challenge ANIP (Tâche 1)
+# Glossaire des Variables - Challenge ANIP (Tâche 1 partie 1)
 
 **Projet :** ANIP AI/Data Challenge 2025
 **Auteur :** SOULE Fadile
