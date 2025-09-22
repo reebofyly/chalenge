@@ -1,0 +1,2320 @@
+IndicatorId,Indicator
+HA_AATT_M_SEC,Accepting attitudes - Not secretive about family member's HIV status (4) [Men]
+HA_AATT_W_SEC,Accepting attitudes - Not secretive about family member's HIV status (4) [Women]
+HA_AATT_M_CRE,Accepting attitudes - Willing to care for family member sick with AIDS (1) [Men]
+HA_AATT_W_CRE,Accepting attitudes - Willing to care for family member sick with AIDS (1) [Women]
+HC_AGEG_P_ADL,Adolescents 10-19
+MM_AMRT_W_AMR,Adult female mortality rate
+MM_AMRT_M_AMR,Adult male mortality rate
+HC_AGEG_P_ADT,Adult population 18+
+HA_ASEC_M_AGR,Adult support of education on condom use for prevention of HIV/AIDS among young men
+HA_ASEC_W_AGR,Adult support of education on condom use for prevention of HIV/AIDS among young women
+MA_ADIF_W_O10,Age difference between man and woman is 10+ years
+MA_ADIF_W_O05,Age difference between man and woman is 5-9 years
+MA_ADIF_W_O01,Age difference between man and woman is <5 years
+MA_ADIF_W_TOT,Age difference: Total
+MA_ADIF_W_MIS,Age of man missing
+FE_FRTR_W_A10,Age specific fertility rate: 10-14
+FE_FRTT_W_A10,Age specific fertility rate: 10-14 (five year periods)
+FE_FRTR_W_A15,Age specific fertility rate: 15-19
+FE_FRTT_W_A15,Age specific fertility rate: 15-19 (five year periods)
+FE_FRTR_W_A20,Age specific fertility rate: 20-24
+FE_FRTT_W_A20,Age specific fertility rate: 20-24 (five year periods)
+FE_FRTR_W_A25,Age specific fertility rate: 25-29
+FE_FRTT_W_A25,Age specific fertility rate: 25-29 (five year periods)
+FE_FRTR_W_A30,Age specific fertility rate: 30-34
+FE_FRTT_W_A30,Age specific fertility rate: 30-34 (five year periods)
+FE_FRTR_W_A35,Age specific fertility rate: 35-39
+FE_FRTT_W_A35,Age specific fertility rate: 35-39 (five year periods)
+FE_FRTR_W_A40,Age specific fertility rate: 40-44
+FE_FRTT_W_A40,Age specific fertility rate: 40-44 (five year periods)
+FE_FRTR_W_A45,Age specific fertility rate: 45-49
+FE_FRTT_W_A45,Age specific fertility rate: 45-49 (five year periods)
+CN_IYCB_C_AGA,Age-appropriate breastfeeding 0-23 months
+CH_DISA_C_GHC,"Among children with diarrhea for whom advice or treatment was sought, children receiving from a government health center"
+CH_DISA_C_GHS,"Among children with diarrhea for whom advice or treatment was sought, children receiving from a government hospital"
+CH_DISA_C_MKT,"Among children with diarrhea for whom advice or treatment was sought, children receiving from a market"
+CH_DISA_C_OSR,"Among children with diarrhea for whom advice or treatment was sought, children receiving from a non-medical source"
+CH_DISA_C_PDR,"Among children with diarrhea for whom advice or treatment was sought, children receiving from a private doctor"
+CH_DISA_C_PFW,"Among children with diarrhea for whom advice or treatment was sought, children receiving from a private fieldworker"
+CH_DISA_C_PHS,"Among children with diarrhea for whom advice or treatment was sought, children receiving from a private hospital/clinic"
+CH_DISA_C_PRV,"Among children with diarrhea for whom advice or treatment was sought, children receiving from a private medical sector facility"
+CH_DISA_C_PPH,"Among children with diarrhea for whom advice or treatment was sought, children receiving from a private pharmacy"
+CH_DISA_C_GFW,"Among children with diarrhea for whom advice or treatment was sought, children receiving from a public fieldworker"
+CH_DISA_C_PUB,"Among children with diarrhea for whom advice or treatment was sought, children receiving from a public sector facility"
+CH_DISA_C_SHP,"Among children with diarrhea for whom advice or treatment was sought, children receiving from a shop"
+CH_DISA_C_TRP,"Among children with diarrhea for whom advice or treatment was sought, children receiving from a traditional practitioner"
+CH_DISA_C_POT,"Among children with diarrhea for whom advice or treatment was sought, children receiving from another private sector facility"
+CH_DISA_C_GOT,"Among children with diarrhea for whom advice or treatment was sought, children receiving from another public sector facility"
+CH_DISA_C_OTH,"Among children with diarrhea for whom advice or treatment was sought, children receiving from any other source"
+CH_DISO_C_GHC,"Among children with diarrhea who received ORS, advice or treatment from a government health center"
+CH_DISO_C_GHS,"Among children with diarrhea who received ORS, advice or treatment from a government hospital"
+CH_DISO_C_MKT,"Among children with diarrhea who received ORS, advice or treatment from a market"
+CH_DISO_C_OSR,"Among children with diarrhea who received ORS, advice or treatment from a non-medical source"
+CH_DISO_C_PDR,"Among children with diarrhea who received ORS, advice or treatment from a private doctor"
+CH_DISO_C_PFW,"Among children with diarrhea who received ORS, advice or treatment from a private fieldworker"
+CH_DISO_C_PHS,"Among children with diarrhea who received ORS, advice or treatment from a private hospital/clinic"
+CH_DISO_C_PRV,"Among children with diarrhea who received ORS, advice or treatment from a private medical sector facility"
+CH_DISO_C_PPH,"Among children with diarrhea who received ORS, advice or treatment from a private pharmacy"
+CH_DISO_C_GFW,"Among children with diarrhea who received ORS, advice or treatment from a public fieldworker"
+CH_DISO_C_PUB,"Among children with diarrhea who received ORS, advice or treatment from a public sector facility"
+CH_DISO_C_SHP,"Among children with diarrhea who received ORS, advice or treatment from a shop"
+CH_DISO_C_TRP,"Among children with diarrhea who received ORS, advice or treatment from a traditional practitioner"
+CH_DISO_C_POT,"Among children with diarrhea who received ORS, advice or treatment from another private sector facility"
+CH_DISO_C_GOT,"Among children with diarrhea who received ORS, advice or treatment from another public sector facility"
+CH_DISO_C_OTH,"Among children with diarrhea who received ORS, advice or treatment from any other source"
+CH_DISS_C_GHC,"Among children with diarrhea, advice or treatment sought from a government health center"
+CH_DISS_C_GHS,"Among children with diarrhea, advice or treatment sought from a government hospital"
+CH_DISS_C_MKT,"Among children with diarrhea, advice or treatment sought from a market"
+CH_DISS_C_OSR,"Among children with diarrhea, advice or treatment sought from a non-medical source"
+CH_DISS_C_PDR,"Among children with diarrhea, advice or treatment sought from a private doctor"
+CH_DISS_C_PFW,"Among children with diarrhea, advice or treatment sought from a private fieldworker"
+CH_DISS_C_PHS,"Among children with diarrhea, advice or treatment sought from a private hospital/clinic"
+CH_DISS_C_PRV,"Among children with diarrhea, advice or treatment sought from a private medical sector facility"
+CH_DISS_C_PPH,"Among children with diarrhea, advice or treatment sought from a private pharmacy"
+CH_DISS_C_GFW,"Among children with diarrhea, advice or treatment sought from a public fieldworker"
+CH_DISS_C_PUB,"Among children with diarrhea, advice or treatment sought from a public sector facility"
+CH_DISS_C_SHP,"Among children with diarrhea, advice or treatment sought from a shop"
+CH_DISS_C_TRP,"Among children with diarrhea, advice or treatment sought from a traditional practitioner"
+CH_DISS_C_POT,"Among children with diarrhea, advice or treatment sought from another private sector facility"
+CH_DISS_C_GOT,"Among children with diarrhea, advice or treatment sought from another public sector facility"
+CH_DISS_C_OTH,"Among children with diarrhea, advice or treatment sought from any other source"
+RH_ANCS_W_BLP,Antenatal care content (of ANC): Blood pressure measured
+RH_ANCS_W_BLS,Antenatal care content (of ANC): Blood sample taken
+RH_ANCS_W_HGT,Antenatal care content (of ANC): Height measured
+RH_ANCS_W_SGN,Antenatal care content (of ANC): Informed of signs of pregnancy complications
+RH_ANCS_W_URN,Antenatal care content (of ANC): Urine sample taken
+RH_ANCS_W_WGT,Antenatal care content (of ANC): Weight measured
+RH_ANCC_W_IRN,Antenatal care content: Received iron tablets or syrup
+RH_ANCP_W_SKP,Antenatal care from a skilled provider
+RH_ANCP_W_AUX,Antenatal care provider: Auxiliary nurse/midwife
+RH_ANCP_W_CHW,Antenatal care provider: Community health worker
+RH_ANCP_W_DOC,Antenatal care provider: Doctor
+RH_ANCP_W_MIS,Antenatal care provider: Missing 
+RH_ANCP_W_NRS,Antenatal care provider: Nurse/midwife
+RH_ANCP_W_OTH,Antenatal care provider: Other
+RH_ANCP_W_TBA,Antenatal care provider: Traditional birth attendant
+RH_ANCP_W_TOT,Antenatal care: Total
+RH_ANCN_W_N01,Antenatal visits for pregnancy: 1
+RH_ANCN_W_N23,Antenatal visits for pregnancy: 2-3 visits
+RH_ANCN_W_N4P,Antenatal visits for pregnancy: 4+ visits
+RH_ANCN_W_N8P,Antenatal visits for pregnancy: 8+ visits
+RH_ANCN_W_NON,Antenatal visits for pregnancy: None
+RH_ANCN_W_DKM,Antenatal visits for pregnancy: don't know or missing
+CH_DSTL_C_SAF,Appropriate disposal of stools
+RH_DELA_C_SKP,Assistance during delivery from a skilled provider
+RH_DELA_C_AUX,Assistance during delivery: Auxiliary nurse/midwife
+RH_DELA_C_DOC,Assistance during delivery: Doctor
+RH_DELA_C_NON,Assistance during delivery: No one
+RH_DELA_C_NRS,Assistance during delivery: Nurse/midwife
+RH_DELA_C_REL,Assistance during delivery: Relative or other
+RH_DELA_C_TOT,Assistance during delivery: Total
+RH_DELA_C_TBA,Assistance during delivery: Traditional birth attendant
+RH_DELA_C_DKM,Assistance during delivery: don't know or missing
+CH_VACS_C_BCG,BCG vaccination received
+CH_VACC_C_BCG,BCG vaccination received
+CH_VAC1_C_BCG,BCG vaccination received in first year
+FP_KFTP_W_OTH,Believes fertile period is 'other'
+FP_KFTP_W_AFT,Believes fertile period is after period ended
+FP_KFTP_W_NON,Believes fertile period is at any time
+FP_KFTP_W_BEF,Believes fertile period is before period begins
+FP_KFTP_W_DUR,Believes fertile period is during her period
+FP_KFTP_W_HLF,Believes fertile period is middle of the cycle
+CH_SZWT_C_REP,Birth weight of child reported
+CH_SZWT_C_REM,Birth weight of child reported by: mother's recall
+CH_SZWT_C_REW,Birth weight of child reported by: written record
+CH_SZWT_C_L25,Birth weight: Less than 2.5 kg
+FE_BORD_C_TOT,Births in the 2 years preceding the survey: Total
+FE_BORD_C_BO1,Births of birth order 1
+FE_BORD_C_BO2,Births of birth order 2
+FE_BORD_C_BO3,Births of birth order 3
+FE_BORD_C_BO4,Births of birth order 4
+FE_BORD_C_BO5,Births of birth order 5+
+CN_FDBF_C_INF,Breastfeeding children receiving infant formula
+CN_FDBF_C_LIQ,Breastfeeding children receiving other liquids
+CN_FDBF_C_MLK,Breastfeeding children receiving other milk
+CM_ECMT_C_CMR,Child mortality (5 year periods)
+CM_ECMT_C_CML,Child mortality (5 year periods) - CI lower bound (-2SE)
+CM_ECMT_C_CMU,Child mortality (5 year periods) - CI upper bound (+2SE)
+CM_ECMT_C_CMX,Child mortality (5 year periods) - relative error
+CM_ECMT_C_CME,Child mortality (5 year periods) - standard error
+CM_ECMR_C_CML,Child mortality - CI lower bound (-2SE)
+CM_ECMR_C_CMU,Child mortality - CI upper bound (+2SE)
+CM_ECMR_C_CMX,Child mortality - relative error
+CM_ECMR_C_CME,Child mortality - standard error
+CM_ECMR_C_CMR,Child mortality rate
+HC_AGEG_P_CHL,Child population 0-17
+CH_FEVT_C_AML,Child took antimalarial drugs for fever
+HC_LVAY_C_BTH,Children age 10-14 living with both parents
+HC_LVAY_C_FON,Children age 10-14 living with father only
+HC_LVAY_C_FMA,"Children age 10-14 living with father, mother alive"
+HC_LVAY_C_FMD,"Children age 10-14 living with father, mother dead"
+HC_LVAY_C_MON,Children age 10-14 living with mother only
+HC_LVAY_C_MFA,"Children age 10-14 living with mother, father alive"
+HC_LVAY_C_MFD,"Children age 10-14 living with mother, father dead"
+HC_LVAY_C_NBA,"Children age 10-14 living with neither parent, both alive"
+HC_LVAY_C_NBD,"Children age 10-14 living with neither parent, both dead"
+HC_LVAY_C_NFA,"Children age 10-14 living with neither parent, father alive"
+HC_LVAY_C_NMA,"Children age 10-14 living with neither parent, mother alive"
+HC_LVAY_C_NBP,Children age 10-14 not living with a biological parent
+HC_LVAY_C_NMS,Children age 10-14 with missing information on whether father/mother alive
+HC_LVAY_C_TOT,Children age 10-14: Total
+CN_BRFS_C_CMP,Children breastfeeding and consuming complementary foods
+CN_BRFS_C_LIQ,Children breastfeeding and consuming non-milk liquids
+CN_BRFS_C_MLK,Children breastfeeding and consuming other milk
+CN_BRFS_C_WAT,Children breastfeeding and consuming plain water only
+CN_BRFS_C_BRF,Children currently breastfeeding
+CN_IYCB_C_BR1,Children currently breastfeeding at 1 year
+CN_IYCB_C_BR2,Children currently breastfeeding at 2 years
+CN_BRFI_C_EVR,Children ever breastfed
+CN_BRFS_C_EXB,Children exclusively breastfed
+CN_IYCB_C_E45,Children exclusively breastfed at age 4-5 months
+CN_IYCB_C_EXB,Children exclusively breastfed under age 6 months
+CN_BRFS_C_NOT,Children not breastfeeding
+CN_NUTS_C_WHP,Children overweight
+CN_NUTS_C_WAP,Children overweight for their age
+CN_IYCB_C_MBF,Children receiving mixed breast and non-breast milk feeding age 0-5 months
+CN_NUTS_C_HA3,Children severely stunted
+CN_NUTS_C_WA3,Children severely underweight
+CN_NUTS_C_WH3,Children severely wasted
+CN_NUTS_C_HA2,Children stunted
+CN_NUTS_C_WA2,Children underweight
+CN_BRFS_C_BNP,Children using a bottle with a nipple
+CN_IYCB_C_BNP,Children using a bottle with a nipple 0-23 months
+CN_NUTS_C_WH2,Children wasted
+CN_BRFI_C_PLF,Children who received a prelacteal feed
+CN_BRFI_C_1DY,Children who started breastfeeding within 1 day of birth
+CN_BRFI_C_1HR,Children who started breastfeeding within 1 hour of birth
+CH_ARIS_C_ADV,Children with ARI for whom advice or treatment was sought
+CN_ANMC_C_ANY,Children with any anemia
+CH_DIAR_C_DIA,Children with diarrhea
+CH_DIAR_C_DIB,Children with diarrhea with blood in the stools
+CH_FEVT_C_ADV,Children with fever for whom advice or treatment was sought
+CH_FEVR_C_FEV,Children with fever in the last two weeks
+CN_ANMC_C_MLD,Children with mild anemia
+CN_ANMC_C_MOD,Children with moderate anemia
+CN_ANMC_C_SEV,Children with severe anemia
+CH_ARIS_C_ARI,Children with symptoms of ARI
+CN_BRFS_C_TOT,Children: Total
+FG_PFCT_W_CFR,Circumcised women who were cut and had flesh removed
+FG_PFCT_W_CNF,Circumcised women who were cut but no flesh was removed
+FG_PFCT_W_SWN,Circumcised women who were sewn closed
+FG_AFCC_W_DKM,Circumcised women with age at circumcision unknown or missing
+FG_PFCT_W_DKM,Circumcised women with unknown or missing information on type of circumcision
+FG_PFCT_W_TOT,Circumcised women: total
+FG_AFCC_W_TOT,Circumcised women: total
+FE_FRTY_W_MNC,Completed fertility of women age 40-49
+HA_HRSX_M_CND,"Condom use at last higher risk sex (with a non-marital, non-cohabiting partner) [Men]"
+HA_HRSX_W_CND,"Condom use at last higher risk sex (with a non-marital, non-cohabiting partner) [Women]"
+HA_MSXP_M_CND,Condom use during higher-risk sex (with multiple partners) [Men]
+HA_MSXP_W_CND,Condom use during higher-risk sex (with multiple partners) [Women]
+FP_KFPC_W_CKF,Correct knowledge of the fertile period
+FE_FRTR_W_CBR,Crude birth rate
+MA_MSTA_M_DIV,Current marital status [Men]: Divorced
+MA_MSTA_M_LTG,Current marital status [Men]: Living together
+MA_MSTA_M_MAR,Current marital status [Men]: Married
+MA_MSTA_M_UNI,Current marital status [Men]: Married or living in union
+MA_MSTA_M_NMA,Current marital status [Men]: Never married
+MA_MSTA_M_SEP,Current marital status [Men]: Not living together
+MA_MSTA_M_WID,Current marital status [Men]: Widowed
+MA_MSTA_W_DIV,Current marital status [Women]: Divorced
+MA_MSTA_W_LTG,Current marital status [Women]: Living together
+MA_MSTA_W_MAR,Current marital status [Women]: Married
+MA_MSTA_W_UNI,Current marital status [Women]: Married or living in union
+MA_MSTA_W_NMA,Current marital status [Women]: Never married
+MA_MSTA_W_SEP,Current marital status [Women]: Not living together
+MA_MSTA_W_WID,Current marital status [Women]: Widowed
+MA_MSTY_M_DIV,Current marital status [Young men]: Divorced
+MA_MSTY_M_LTG,Current marital status [Young men]: Living together
+MA_MSTY_M_MAR,Current marital status [Young men]: Married
+MA_MSTY_M_UNI,Current marital status [Young men]: Married or living in union
+MA_MSTY_M_NMA,Current marital status [Young men]: Never married
+MA_MSTY_M_SEP,Current marital status [Young men]: Not living together
+MA_MSTY_W_DIV,Current marital status [Young women]: Divorced
+MA_MSTY_W_LTG,Current marital status [Young women]: Living together
+MA_MSTY_W_MAR,Current marital status [Young women]: Married
+MA_MSTY_W_UNI,Current marital status [Young women]: Married or living in union
+MA_MSTY_W_NMA,Current marital status [Young women]: Never married
+MA_MSTY_W_SEP,Current marital status [Young women]: Not living together
+MA_MSTY_W_WID,Current marital status [Young women]: Widowed
+ED_SCHA_C_SCA,Current school attendance rate of children aged 10-14 both of whose parents are alive and who live with at least one parent
+ED_SCHA_C_SCD,Current school attendance rate of orphans aged 10-14
+FP_CUSA_W_IUD,Current use of IUD (all women)
+FP_CUSU_W_IUD,Current use of IUD (sexually active unmarried women)
+FP_CUSA_W_ANY,Current use of any method of contraception (all women)
+FP_CUSU_W_ANY,Current use of any method of contraception (sexually active unmarried women)
+FP_CUSY_W_ANY,Current use of any method of contraception (young women)
+FP_CUSA_W_MOD,Current use of any modern method of contraception (all women)
+FP_CUSU_W_MOD,Current use of any modern method of contraception (sexually active unmarried women)
+FP_CUSY_W_MOD,Current use of any modern method of contraception (young women)
+FP_CUSA_W_TRA,Current use of any traditional method (all women)
+FP_CUSU_W_TRA,Current use of any traditional method (sexually active unmarried women)
+FP_CUSA_W_MCN,Current use of condom (all women)
+FP_CUSU_W_MCN,Current use of condom (sexually active unmarried women)
+FP_CUSA_W_DIA,Current use of diaphragm (all women)
+FP_CUSA_W_DFJ,"Current use of diaphragm, foam or jelly (all women)"
+FP_CUSA_W_FST,Current use of female sterilization (all women)
+FP_CUSU_W_FST,Current use of female sterilization (sexually active unmarried women)
+FP_CUSA_W_FOM,Current use of foam or jelly (all women)
+FP_CUSU_W_FOM,Current use of foam or jelly (sexually active unmarried women)
+FP_CUSA_W_IMP,Current use of implants (all women)
+FP_CUSA_W_INJ,Current use of injections (all women)
+FP_CUSU_W_INJ,Current use of injections (sexually active unmarried women)
+FP_CUSA_W_LAM,Current use of lactational amenorrhea (all women)
+FP_CUSA_W_OTR,Current use of other traditional methods (all women)
+FP_CUSU_W_OTR,Current use of other traditional methods (sexually active unmarried women)
+FP_CUSA_W_RHY,Current use of periodic abstinence (all women)
+FP_CUSU_W_RHY,Current use of periodic abstinence (sexually active unmarried women)
+FP_CUSA_W_PIL,Current use of pill (all women)
+FP_CUSU_W_PIL,Current use of pill (sexually active unmarried women)
+FP_CUSA_W_WTH,Current use of withdrawal (all women)
+FP_CUSU_W_WTH,Current use of withdrawal (sexually active unmarried women)
+FP_SRCM_W_NUM,Current users
+FP_SRCM_W_UNW,Current users (unweighted)
+FP_SRCM_W_GFP,Current users most recent supply or information from a family planning clinic
+FP_SRCM_W_PFW,Current users most recent supply or information from a fieldworker
+FP_SRCM_W_GFW,Current users most recent supply or information from a fieldworker
+FP_SRCM_W_FRR,Current users most recent supply or information from a friend/relative
+FP_SRCM_W_GHC,Current users most recent supply or information from a government health center
+FP_SRCM_W_GHS,Current users most recent supply or information from a government hospital
+FP_SRCM_W_GMB,Current users most recent supply or information from a mobile clinic
+FP_SRCM_W_PMB,Current users most recent supply or information from a mobile clinic
+FP_SRCM_W_PPH,Current users most recent supply or information from a pharmacy
+FP_SRCM_W_PDR,Current users most recent supply or information from a private doctor
+FP_SRCM_W_PHS,Current users most recent supply or information from a private hospital/clinic
+FP_SRCM_W_PRV,Current users most recent supply or information from a private medical source
+FP_SRCM_W_PUB,Current users most recent supply or information from a public source
+FP_SRCM_W_SHP,Current users most recent supply or information from a shop
+FP_SRCM_W_POT,Current users most recent supply or information from an other private medical source
+FP_SRCM_W_GOT,Current users most recent supply or information from an other public medical source
+FP_SRCM_W_OTH,Current users most recent supply or information from an other unspecified source
+FP_SRCM_W_OSR,Current users most recent supply or information from other non-medical sources
+FP_SRCM_W_MIS,Current users most recent supply or information: Missing
+FP_SRCM_W_TOT,Current users: Total
+CH_VACS_C_DP1,DPT 1 vaccination received
+CH_VACC_C_DP1,DPT 1 vaccination received
+CH_VAC1_C_DP1,DPT 1 vaccination received in first year
+CH_VACS_C_DP2,DPT 2 vaccination received
+CH_VACC_C_DP2,DPT 2 vaccination received
+CH_VAC1_C_DP2,DPT 2 vaccination received in first year
+CH_VACS_C_DP3,DPT 3 vaccination received
+CH_VACC_C_DP3,DPT 3 vaccination received
+CH_VAC1_C_DP3,DPT 3 vaccination received in first year
+HC_OLDR_P_65P,De jure population age 65+
+MM_AMRT_M_DTH,Deaths of adult men
+MM_AMRT_W_DTH,Deaths of adult women
+WE_DMKP_M_HUS,Decision maker about Major household purchases: Mainly husband [Men]
+WE_DMKP_W_HUS,Decision maker about Major household purchases: Mainly husband [Women]
+WE_DMKP_M_WIF,Decision maker about Major household purchases: Mainly wife [Men]
+WE_DMKP_W_WIF,Decision maker about Major household purchases: Mainly wife [Women]
+WE_DMKP_M_OTH,Decision maker about Major household purchases: Other [Men]
+WE_DMKP_W_OTH,Decision maker about Major household purchases: Other [Women]
+WE_DMKP_M_ELS,Decision maker about Major household purchases: Someone else [Men]
+WE_DMKP_W_ELS,Decision maker about Major household purchases: Someone else [Women]
+WE_DMKP_M_TOT,Decision maker about Major household purchases: Total [Men]
+WE_DMKP_W_TOT,Decision maker about Major household purchases: Total [Women]
+WE_DMKP_M_JNT,Decision maker about Major household purchases: Wife and husband jointly [Men]
+WE_DMKP_W_JNT,Decision maker about Major household purchases: Wife and husband jointly [Women]
+WE_DMKP_W_DKM,Decision maker about Major household purchases: don't know or missing [Women]
+WE_DMKH_M_HUS,Decision maker about Own health care: Mainly husband [Men]
+WE_DMKH_W_HUS,Decision maker about Own health care: Mainly husband [Women]
+WE_DMKH_M_WIF,Decision maker about Own health care: Mainly wife [Men]
+WE_DMKH_W_WIF,Decision maker about Own health care: Mainly wife [Women]
+WE_DMKH_M_OTH,Decision maker about Own health care: Other [Men]
+WE_DMKH_W_OTH,Decision maker about Own health care: Other [Women]
+WE_DMKH_M_ELS,Decision maker about Own health care: Someone else [Men]
+WE_DMKH_W_ELS,Decision maker about Own health care: Someone else [Women]
+WE_DMKH_M_TOT,Decision maker about Own health care: Total [Men]
+WE_DMKH_W_TOT,Decision maker about Own health care: Total [Women]
+WE_DMKH_M_JNT,Decision maker about Own health care: Wife and husband jointly [Men]
+WE_DMKH_W_JNT,Decision maker about Own health care: Wife and husband jointly [Women]
+WE_DMKH_W_DKM,Decision maker about Own health care: don't know or missing [Women]
+WE_DMKV_W_HUS,Decision maker about Visits to her family or relatives: Mainly husband [Women]
+WE_DMKV_W_WIF,Decision maker about Visits to her family or relatives: Mainly wife [Women]
+WE_DMKV_W_OTH,Decision maker about Visits to her family or relatives: Other [Women]
+WE_DMKV_W_ELS,Decision maker about Visits to her family or relatives: Someone else [Women]
+WE_DMKV_W_TOT,Decision maker about Visits to her family or relatives: Total [Women]
+WE_DMKV_W_JNT,Decision maker about Visits to her family or relatives: Wife and husband jointly [Women]
+WE_DMKV_W_DKM,Decision maker about Visits to her family or relatives: don't know or missing [Women]
+RH_DELA_C_CSC,Delivery by cesarean section
+FP_NADM_W_PDS,Demand for family planning satisfied
+FP_NADA_W_PDS,Demand for family planning satisfied (all women)
+FP_NDYA_W_PDS,Demand for family planning satisfied (all young women)
+FP_NDYM_W_PDS,Demand for family planning satisfied (married young women)
+FP_NADU_W_PDS,Demand for family planning satisfied (sexually active unmarried women)
+FP_NDYU_W_PDS,Demand for family planning satisfied (sexually active unmarried young women)
+FP_NADM_W_PDM,Demand for family planning satisfied by modern methods
+FP_NADA_W_PDM,Demand for family planning satisfied by modern methods (all women)
+FP_NDYA_W_PDM,Demand for family planning satisfied by modern methods (all young women)
+FP_NDYM_W_PDM,Demand for family planning satisfied by modern methods (married young women)
+FP_NADU_W_PDM,Demand for family planning satisfied by modern methods (sexually active unmarried women)
+FP_NDYU_W_PDM,Demand for family planning satisfied by modern methods (sexually active unmarried young women)
+HC_AGEG_P_014,Dependency age group 0-14
+HC_AGEG_P_WRK,Dependency age group 15-64
+HC_AGEG_P_SNR,Dependency age group 65+
+PR_DESC_M_INF,Desire for more children [Men]: Declared infecund
+PR_DESC_M_ALT,Desire for more children [Men]: Have another later
+PR_DESC_M_ASN,Desire for more children [Men]: Have another soon
+PR_DESC_M_MIS,Desire for more children [Men]: Missing
+PR_DESC_M_STR,Desire for more children [Men]: Sterilized
+PR_DESC_M_UND,Desire for more children [Men]: Undecided
+PR_DESC_M_WNM,Desire for more children [Men]: Wants no more
+PR_DESC_M_AUN,"Desire for more children [Men]: Wants, unsure timing"
+PR_DESC_W_INF,Desire for more children: Declared infecund
+PR_DESC_W_ALT,Desire for more children: Have another later
+PR_DESC_W_ASN,Desire for more children: Have another soon
+PR_DESC_W_MIS,Desire for more children: Missing
+PR_DESC_W_STR,Desire for more children: Sterilized
+PR_DESC_W_UND,Desire for more children: Undecided
+PR_DESC_W_WNM,Desire for more children: Wants no more
+PR_DESC_W_AUN,"Desire for more children: Wants, unsure timing"
+CH_DSTL_C_TLT,Disposal of stools: Child uses toilet
+CH_DSTL_C_NON,Disposal of stools: Not disposed of
+CH_DSTL_C_OTH,Disposal of stools: Other
+CH_DSTL_C_RTL,Disposal of stools: Throw in toilet/latrine
+CH_DSTL_C_ODW,Disposal of stools: Throw outside the dwelling
+CH_DSTL_C_OYD,Disposal of stools: Throw outside the yard
+CH_DSTL_C_TOT,Disposal of stools: Total
+CH_DSTL_C_DDP,Disposal of stools: Use disposable diapers
+CH_DSTL_C_WDP,Disposal of stools: Use washable diapers
+CH_DSTL_C_DKM,Disposal of stools: don't know or missing
+FP_KFTP_W_DKN,Doesn't know the fertile period
+SV_RESI_M_RES,Eligible men response rate
+CH_VACP_C_EV1,Ever had vaccination card (12-23)
+CH_VACP_C_EV2,Ever had vaccination card (24-35)
+FG_KFCC_M_HFC,Ever heard of female circumcision (men)
+FG_KFCC_W_HFC,Ever heard of female circumcision (women)
+FP_EVUA_M_IUD,Ever use of IUD (all men)
+FP_EVUA_W_IUD,Ever use of IUD (all women)
+FP_EVUM_M_IUD,Ever use of IUD (married men)
+FP_EVUM_W_IUD,Ever use of IUD (married women)
+FP_EVUU_M_IUD,Ever use of IUD (sexually active unmarried men)
+FP_EVUU_W_IUD,Ever use of IUD (sexually active unmarried women)
+FP_EVUA_M_ANY,Ever use of any method of contraception (all men)
+FP_EVUA_W_ANY,Ever use of any method of contraception (all women)
+FP_EVUM_M_ANY,Ever use of any method of contraception (married men)
+FP_EVUM_W_ANY,Ever use of any method of contraception (married women)
+FP_EVUU_M_ANY,Ever use of any method of contraception (sexually active unmarried men)
+FP_EVUU_W_ANY,Ever use of any method of contraception (sexually active unmarried women)
+FP_EVUA_M_MOD,Ever use of any modern method of contraception (all men)
+FP_EVUA_W_MOD,Ever use of any modern method of contraception (all women)
+FP_EVUM_M_MOD,Ever use of any modern method of contraception (married men)
+FP_EVUM_W_MOD,Ever use of any modern method of contraception (married women)
+FP_EVUU_M_MOD,Ever use of any modern method of contraception (sexually active unmarried men)
+FP_EVUU_W_MOD,Ever use of any modern method of contraception (sexually active unmarried women)
+FP_EVUA_M_TRA,Ever use of any traditional method (all men)
+FP_EVUA_W_TRA,Ever use of any traditional method (all women)
+FP_EVUM_M_TRA,Ever use of any traditional method (married men)
+FP_EVUM_W_TRA,Ever use of any traditional method (married women)
+FP_EVUU_M_TRA,Ever use of any traditional method (sexually active unmarried men)
+FP_EVUU_W_TRA,Ever use of any traditional method (sexually active unmarried women)
+FP_EVUA_M_MCN,Ever use of condom (all men)
+FP_EVUA_W_MCN,Ever use of condom (all women)
+FP_EVUM_M_MCN,Ever use of condom (married men)
+FP_EVUM_W_MCN,Ever use of condom (married women)
+FP_EVUU_M_MCN,Ever use of condom (sexually active unmarried men)
+FP_EVUU_W_MCN,Ever use of condom (sexually active unmarried women)
+FP_EVUA_M_DIA,Ever use of diaphragm (all men)
+FP_EVUA_W_DIA,Ever use of diaphragm (all women)
+FP_EVUM_M_DIA,Ever use of diaphragm (married men)
+FP_EVUM_W_DIA,Ever use of diaphragm (married women)
+FP_EVUU_M_DIA,Ever use of diaphragm (sexually active unmarried men)
+FP_EVUU_W_DIA,Ever use of diaphragm (sexually active unmarried women)
+FP_EVUA_M_DFJ,"Ever use of diaphragm, foam or jelly (all men)"
+FP_EVUM_M_DFJ,"Ever use of diaphragm, foam or jelly (married men)"
+FP_EVUU_M_DFJ,"Ever use of diaphragm, foam or jelly (sexually active unmarried men)"
+FP_EVUA_M_EMC,Ever use of emergency contraception (all men)
+FP_EVUA_W_EMC,Ever use of emergency contraception (all women)
+FP_EVUM_M_EMC,Ever use of emergency contraception (married men)
+FP_EVUM_W_EMC,Ever use of emergency contraception (married women)
+FP_EVUU_M_EMC,Ever use of emergency contraception (sexually active unmarried men)
+FP_EVUU_W_EMC,Ever use of emergency contraception (sexually active unmarried women)
+FP_EVUA_M_FCN,Ever use of female condom (all men)
+FP_EVUA_W_FCN,Ever use of female condom (all women)
+FP_EVUM_M_FCN,Ever use of female condom (married men)
+FP_EVUM_W_FCN,Ever use of female condom (married women)
+FP_EVUU_M_FCN,Ever use of female condom (sexually active unmarried men)
+FP_EVUU_W_FCN,Ever use of female condom (sexually active unmarried women)
+FP_EVUA_M_FST,Ever use of female sterilization (all men)
+FP_EVUA_W_FST,Ever use of female sterilization (all women)
+FP_EVUM_M_FST,Ever use of female sterilization (married men)
+FP_EVUM_W_FST,Ever use of female sterilization (married women)
+FP_EVUU_W_FST,Ever use of female sterilization (sexually active unmarried women)
+FP_EVUA_M_FOM,Ever use of foam or jelly (all men)
+FP_EVUA_W_FOM,Ever use of foam or jelly (all women)
+FP_EVUM_M_FOM,Ever use of foam or jelly (married men)
+FP_EVUM_W_FOM,Ever use of foam or jelly (married women)
+FP_EVUU_M_FOM,Ever use of foam or jelly (sexually active unmarried men)
+FP_EVUU_W_FOM,Ever use of foam or jelly (sexually active unmarried women)
+FP_EVUA_M_IMP,Ever use of implants (all men)
+FP_EVUA_W_IMP,Ever use of implants (all women)
+FP_EVUM_M_IMP,Ever use of implants (married men)
+FP_EVUM_W_IMP,Ever use of implants (married women)
+FP_EVUU_M_IMP,Ever use of implants (sexually active unmarried men)
+FP_EVUU_W_IMP,Ever use of implants (sexually active unmarried women)
+FP_EVUA_M_INJ,Ever use of injections (all men)
+FP_EVUA_W_INJ,Ever use of injections (all women)
+FP_EVUM_M_INJ,Ever use of injections (married men)
+FP_EVUM_W_INJ,Ever use of injections (married women)
+FP_EVUU_M_INJ,Ever use of injections (sexually active unmarried men)
+FP_EVUU_W_INJ,Ever use of injections (sexually active unmarried women)
+FP_EVUA_M_LAM,Ever use of lactational amenorrhea (all men)
+FP_EVUA_W_LAM,Ever use of lactational amenorrhea (all women)
+FP_EVUM_M_LAM,Ever use of lactational amenorrhea (married men)
+FP_EVUM_W_LAM,Ever use of lactational amenorrhea (married women)
+FP_EVUU_M_LAM,Ever use of lactational amenorrhea (sexually active unmarried men)
+FP_EVUU_W_LAM,Ever use of lactational amenorrhea (sexually active unmarried women)
+FP_EVUA_W_MST,Ever use of male sterilization (all women)
+FP_EVUM_W_MST,Ever use of male sterilization (married women)
+FP_EVUA_M_OTR,Ever use of other traditional methods (all men)
+FP_EVUA_W_OTR,Ever use of other traditional methods (all women)
+FP_EVUM_M_OTR,Ever use of other traditional methods (married men)
+FP_EVUM_W_OTR,Ever use of other traditional methods (married women)
+FP_EVUU_M_OTR,Ever use of other traditional methods (sexually active unmarried men)
+FP_EVUU_W_OTR,Ever use of other traditional methods (sexually active unmarried women)
+FP_EVUA_M_RHY,Ever use of periodic abstinence (all men)
+FP_EVUA_W_RHY,Ever use of periodic abstinence (all women)
+FP_EVUM_M_RHY,Ever use of periodic abstinence (married men)
+FP_EVUM_W_RHY,Ever use of periodic abstinence (married women)
+FP_EVUU_M_RHY,Ever use of periodic abstinence (sexually active unmarried men)
+FP_EVUU_W_RHY,Ever use of periodic abstinence (sexually active unmarried women)
+FP_EVUA_M_PIL,Ever use of pill (all men)
+FP_EVUA_W_PIL,Ever use of pill (all women)
+FP_EVUM_M_PIL,Ever use of pill (married men)
+FP_EVUM_W_PIL,Ever use of pill (married women)
+FP_EVUU_M_PIL,Ever use of pill (sexually active unmarried men)
+FP_EVUU_W_PIL,Ever use of pill (sexually active unmarried women)
+FP_EVUA_M_WTH,Ever use of withdrawal (all men)
+FP_EVUA_W_WTH,Ever use of withdrawal (all women)
+FP_EVUM_M_WTH,Ever use of withdrawal (married men)
+FP_EVUM_W_WTH,Ever use of withdrawal (married women)
+FP_EVUU_M_WTH,Ever use of withdrawal (sexually active unmarried men)
+FP_EVUU_W_WTH,Ever use of withdrawal (sexually active unmarried women)
+FP_EFPM_M_NWS,Family planning messages in newspapers or magazines [Men]
+FP_EFPM_W_NWS,Family planning messages in newspapers or magazines [Women]
+FP_EFPM_M_NON,Family planning messages in none of these three media [Men]
+FP_EFPM_W_NON,Family planning messages in none of these three media [Women]
+FP_EFPM_M_TLV,Family planning messages on television [Men]
+FP_EFPM_W_TLV,Family planning messages on television [Women]
+FP_EFPM_M_RDO,Family planning messages on the radio [Men]
+FP_EFPM_W_RDO,Family planning messages on the radio [Women]
+FP_DMKF_W_UJN,Family planning use decisionmaking jointly by wife and husband
+FP_DMKF_W_UHS,Family planning use decisionmaking mainly by husband
+FP_DMKF_W_UDK,Family planning use decisionmaking mainly by others/don't know/missing
+FP_DMKF_W_UWF,Family planning use decisionmaking mainly by wife
+FP_DMKF_W_UTT,Family planning use decisionmaking: total
+CH_DIFP_C_FAL,"Feeding practices during diarrhea: Continued feeding, and ORT and/or increased fluids"
+CH_DIFP_C_LDC,Feeding practices during diarrhea: Decreased amount of fluids
+CH_DIFP_C_FDC,Feeding practices during diarrhea: Decreased amount of food
+CH_DIFP_C_FCF,Feeding practices during diarrhea: Given increased fluids and continued feeding
+CH_DIFP_C_LMR,Feeding practices during diarrhea: Increased amount of fluids
+CH_DIFP_C_FMR,Feeding practices during diarrhea: Increased amount of food
+CH_DIFP_C_LML,Feeding practices during diarrhea: Much less fluids
+CH_DIFP_C_FML,Feeding practices during diarrhea: Much less food
+CH_DIFP_C_FNV,Feeding practices during diarrhea: Never gave food
+CH_DIFP_C_FAL,Feeding practices during diarrhea: ORT and continued feeding
+CH_DIFP_C_LSM,Feeding practices during diarrhea: Same amount of fluids
+CH_DIFP_C_FSM,Feeding practices during diarrhea: Same amount of food
+CH_DIFP_C_LLS,Feeding practices during diarrhea: Somewhat less fluids
+CH_DIFP_C_FLS,Feeding practices during diarrhea: Somewhat less food
+CH_DIFP_C_LNO,Feeding practices during diarrhea: Stopped fluids completely
+CH_DIFP_C_FNO,Feeding practices during diarrhea: Stopped food completely
+CH_DIFP_C_FTO,Feeding practices during diarrhea: Total
+CH_DIFP_C_LTO,Feeding practices during diarrhea: Total
+CH_DIFP_C_LDK,Feeding practices during diarrhea: don't know or missing on fluids given
+CH_DIFP_C_FDK,Feeding practices during diarrhea: don't know or missing on food given
+MM_MMRT_W_FDP,Female deaths that are pregnancy-related
+ED_EDAT_W_HGH,Female population age 6 and over who attended higher education
+ED_EDAT_W_PRI,Female population age 6 and over who attended primary education
+ED_EDAT_W_SEC,Female population age 6 and over who attended secondary education
+ED_EDAT_W_CPR,Female population age 6 and over with completed primary education
+ED_EDAT_W_CSC,Female population age 6 and over with completed secondary education
+ED_EDAT_W_DKM,Female population age 6 and over with don't know or missing information on level of education
+ED_EDAT_W_NED,Female population age 6 and over with no education
+ED_EDAT_W_SPR,Female population age 6 and over with some primary education
+ED_EDAT_W_SSC,Female population age 6 and over with some secondary education
+ED_EDAT_W_TOT,Female population age 6 and over: Total
+HC_HHHD_H_FEM,Female-headed households
+FP_KFTP_W_MIS,Fertile period: Missing
+WE_DMAK_W_3DC,Final say in all of the decisions [Women]
+WE_DMAK_M_2DC,Final say in both of the decisions [Men]
+WE_DMAK_W_DPC,Final say in making daily purchases [Women]
+WE_DMAK_M_MPC,Final say in making large purchases [Men]
+WE_DMAK_W_MPC,Final say in making large purchases [Women]
+WE_DMAK_M_NON,Final say in none of the decisions [Men]
+WE_DMAK_W_NON,Final say in none of the decisions [Women]
+WE_DMAK_M_OHC,Final say in own health care [Men]
+WE_DMAK_W_OHC,Final say in own health care [Women]
+WE_DMAK_W_FAM,"Final say in visits to family, relatives, friends [Women]"
+WE_DMAK_W_CKD,Final say in what food to cook daily [Women]
+SX_SBAG_M_B15,First sexual intercourse by exact age 15 [Men]
+SX_SBAG_W_B15,First sexual intercourse by exact age 15 [Women]
+SX_SBAY_M_B15,First sexual intercourse by exact age 15 [Young men]
+SX_SBAY_W_B15,First sexual intercourse by exact age 15 [Young women]
+SX_SBAG_M_B18,First sexual intercourse by exact age 18 [Men]
+SX_SBAG_W_B18,First sexual intercourse by exact age 18 [Women]
+SX_SBAY_M_B18,First sexual intercourse by exact age 18 [Young men]
+SX_SBAY_W_B18,First sexual intercourse by exact age 18 [Young women]
+SX_SBAG_M_B20,First sexual intercourse by exact age 20 [Men]
+SX_SBAG_W_B20,First sexual intercourse by exact age 20 [Women]
+SX_SBAY_M_B20,First sexual intercourse by exact age 20 [Young men]
+SX_SBAY_W_B20,First sexual intercourse by exact age 20 [Young women]
+SX_SBAG_M_B22,First sexual intercourse by exact age 22 [Men]
+SX_SBAG_W_B22,First sexual intercourse by exact age 22 [Women]
+SX_SBAG_M_B25,First sexual intercourse by exact age 25 [Men]
+SX_SBAG_W_B25,First sexual intercourse by exact age 25 [Women]
+CH_VACS_C_BAS,Fully vaccinated (8 basic antigens)
+CH_VACC_C_BAS,Fully vaccinated (8 basic antigens)
+CH_VAC1_C_BAS,Fully vaccinated (8 basic antigens)
+CH_VACS_C_APP,Fully vaccinated (according to national schedule)
+CH_VACC_C_APP,Fully vaccinated (according to national schedule)
+FP_FUTU_W_DNI,Future use of contraception: Does not intend
+FP_FUTU_W_I12,Future use of contraception: In next 12 months
+FP_FUTU_W_INT,Future use of contraception: Intends to use in the future
+FP_FUTU_W_TOT,Future use of contraception: Total
+FP_FUTU_W_IUN,Future use of contraception: Unsure about timing
+FP_FUTU_W_UNS,Future use of contraception: Unsure about use
+FP_FUTU_W_ILT,Future use of contraception: Use later
+FP_FUTU_W_DKM,Future use of contraception: don't know or missing information on future intentions
+ED_NARP_B_GPI,Gender parity index for net primary school attendance
+ED_NARS_B_GPI,Gender parity index for net secondary school attendance
+FE_FRTR_W_GFR,General fertility rate
+MM_MMRO_W_GFR,General fertility rate
+ED_GARP_B_GPI,Gross parity index for gross primary school attendance
+ED_GARS_B_GPI,Gross parity index for gross secondary school attendance
+ED_GARP_W_FEM,Gross primary school attendance rate: Female
+ED_GARP_M_MAL,Gross primary school attendance rate: Male
+ED_GARP_B_BTH,Gross primary school attendance rate: Total
+ED_GARS_W_FEM,Gross secondary school attendance rate: Female
+ED_GARS_M_MAL,Gross secondary school attendance rate: Male
+ED_GARS_B_BTH,Gross secondary school attendance rate: Total
+CM_HRFB_C_TOT,High risk births: Total
+CM_HRFW_W_TOT,High risk fertility behavior: Total
+CM_HRFB_C_A1B,High-risk births: Age < 18 & birth interval < 24 months
+CM_HRFB_C_A2B,High-risk births: Age > 34 & birth interval < 24 months
+CM_HRFB_C_ABO,High-risk births: Age > 34 & birth order > 3
+CM_HRFB_C_A3B,"High-risk births: Age > 34, birth interval < 24 and birth order > 3"
+CM_HRFB_C_BIO,High-risk births: Birth interval < 24 & birth order > 3
+CM_HRFB_C_B24,High-risk births: Birth interval < 24 months
+CM_HRFB_C_B1S,High-risk births: Birth interval < 24 months subtotal
+CM_HRFW_W_B1S,High-risk births: Birth interval < 24 months subtotal
+CM_HRFB_C_BO3,High-risk births: Birth order > 3
+CM_HRFB_C_B3S,High-risk births: Birth order > 3 subtotal
+CM_HRFW_W_B3S,High-risk births: Birth order > 3 subtotal
+CM_HRFB_C_FOB,High-risk births: First birth
+CM_HRFB_C_ANY,High-risk births: In any avoidable risk category
+CM_HRFB_C_A18,High-risk births: Mother's age < 18
+CM_HRFW_W_A1S,High-risk births: Mother's age < 18 subtotal
+CM_HRFB_C_A1S,High-risk births: Mother's age < 18 subtotal
+CM_HRFB_C_A34,High-risk births: Mother's age > 34
+CM_HRFW_W_A3S,High-risk births: Mother's age > 34 subtotal
+CM_HRFB_C_A3S,High-risk births: Mother's age > 34 subtotal
+CM_HRFB_C_MLT,High-risk births: Multiple risk categories
+CM_HRFB_C_NON,High-risk births: Not in any risk category
+CM_HRFB_C_SNG,High-risk births: Single risk category
+CM_HRFW_W_A1B,High-risk fertility behavior: Age < 18 & birth interval < 24 months
+CM_HRFW_W_A2B,High-risk fertility behavior: Age > 34 & birth interval < 24 months
+CM_HRFW_W_ABO,High-risk fertility behavior: Age > 34 & birth order > 3
+CM_HRFW_W_A3B,"High-risk fertility behavior: Age > 34, birth interval < 24 and birth order > 3"
+CM_HRFW_W_BIO,High-risk fertility behavior: Birth interval < 24 & birth order > 3
+CM_HRFW_W_B24,High-risk fertility behavior: Birth interval < 24 months
+CM_HRFW_W_BO3,High-risk fertility behavior: Birth order > 3
+CM_HRFW_W_FOB,High-risk fertility behavior: First birth
+CM_HRFW_W_ANY,High-risk fertility behavior: In any avoidable risk category
+CM_HRFW_W_A18,High-risk fertility behavior: Mother's age < 18
+CM_HRFW_W_A34,High-risk fertility behavior: Mother's age > 34
+CM_HRFW_W_MLT,High-risk fertility behavior: Multiple risk categories
+CM_HRFW_W_NON,High-risk fertility behavior: Not in any risk category
+CM_HRFW_W_SNG,High-risk fertility behavior: Single risk category
+CM_HRFR_C_A1B,High-risk fertility risk ratio: Age < 18 & birth interval < 24 months
+CM_HRFR_C_A2B,High-risk fertility risk ratio: Age > 34 & birth interval < 24 months
+CM_HRFR_C_ABO,High-risk fertility risk ratio: Age > 34 & birth order > 3
+CM_HRFR_C_A3B,"High-risk fertility risk ratio: Age > 34, birth interval < 24 and birth order > 3"
+CM_HRFR_C_BIO,High-risk fertility risk ratio: Birth interval < 24 & birth order > 3
+CM_HRFR_C_B24,High-risk fertility risk ratio: Birth interval < 24 months
+CM_HRFR_C_B1S,High-risk fertility risk ratio: Birth interval < 24 months subtotal
+CM_HRFR_C_BO3,High-risk fertility risk ratio: Birth order > 3
+CM_HRFR_C_B3S,High-risk fertility risk ratio: Birth order > 3 subtotal
+CM_HRFR_C_FOB,High-risk fertility risk ratio: First birth
+CM_HRFR_U_ANY,High-risk fertility risk ratio: In any avoidable risk category
+CM_HRFR_C_ANY,High-risk fertility risk ratio: In any avoidable risk category
+CM_HRFR_C_A18,High-risk fertility risk ratio: Mother's age < 18
+CM_HRFR_C_A1S,High-risk fertility risk ratio: Mother's age < 18 subtotal
+CM_HRFR_C_A34,High-risk fertility risk ratio: Mother's age > 34
+CM_HRFR_C_A3S,High-risk fertility risk ratio: Mother's age > 34 subtotal
+CM_HRFR_C_MLT,High-risk fertility risk ratio: Multiple risk categories
+CM_HRFR_C_NON,High-risk fertility risk ratio: Not in any risk category
+CM_HRFR_C_SNG,High-risk fertility risk ratio: Single risk category
+HA_HRSX_M_HRS,Higher risk sex in the last year [Men]
+HA_HRSX_W_HRS,Higher risk sex in the last year [Women]
+HA_MSXP_M_2PP,Higher-risk Sex (with multiple partners among all respondents) [Men]
+HA_MSXP_W_2PP,Higher-risk Sex (with multiple partners among all respondents) [Women]
+HC_AGEG_P_NUM,Household population
+HC_AGEG_P_UNW,Household population (unweighted)
+WS_TIME_H_DKM,Household with unknown or missing information on round trip time to water
+HC_CKFL_H_LPG,Households cooking with LPG/natural gas/biogas
+HC_CKFL_H_CHR,Households cooking with charcoal
+HC_CKFL_H_ELC,Households cooking with electricity
+HC_CKFL_H_GAS,Households cooking with gasoline
+HC_CKFL_H_KER,Households cooking with kerosene
+HC_CKFL_H_OTH,Households cooking with other types of fuel
+HC_CKFL_H_WOD,Households cooking with wood
+HC_TRNS_H_BIK,Households possessing a bicycle
+HC_TRNS_H_SCT,Households possessing a motorcycle
+HC_TRNS_H_CAR,Households possessing a private car
+HC_HEFF_H_RDO,Households possessing a radio
+HC_HEFF_H_FRG,Households possessing a refrigerator
+HC_HEFF_H_NPH,Households possessing a telephone
+HC_HEFF_H_TLV,Households possessing a television
+SV_HRSM_H_RES,Households response rate for men's survey
+HC_HHHD_H_TOT,Households total
+HC_RMSL_H_TOT,Households total
+WS_TLET_H_TOT,Households total
+WS_SRCE_H_PSG,Households using a protected spring
+WS_SRCE_H_PWL,Households using a protected well
+WS_SRCE_H_TAP,Households using a public tap/standpipe
+WS_SRCE_H_USU,Households using a spring (protection unspecified)
+WS_SRCE_H_TUB,Households using a tubewell/borehole
+WS_SRCE_H_IMP,Households using an improved water source
+WS_SRCE_H_NIM,Households using an unimproved water source
+WS_SRCE_H_UWL,Households using an unprotected well water
+WS_SRCE_H_BOT,Households using bottled water
+HC_CKFL_H_CLN,Households using clean fuel for cooking 
+WS_TLET_H_NFC,Households using open defecation
+WS_TLET_H_OTH,Households using other types of toilet facility
+WS_SRCE_H_OTH,Households using other water source
+WS_SRCE_H_RNW,Households using rainwater
+HC_CKFL_H_SLD,Households using solid fuel for cooking 
+WS_SRCE_H_SRF,Households using surface water
+WS_SRCE_H_TNK,Households using tanker truck
+WS_SRCE_H_PIP,Households using water piped into dwelling
+WS_SRCE_H_PYD,Households using water piped into yard/plot
+HC_MEMB_H_0MM,Households with 0 usual members
+HC_MEMB_H_1MM,Households with 1 usual members
+HC_PPRM_H_12P,Households with 1-2 persons per sleeping room
+HC_MEMB_H_2MM,Households with 2 usual members
+HC_OLDR_H_3GN,Households with 3 generations
+HC_MEMB_H_3MM,Households with 3 usual members
+HC_PPRM_H_34P,Households with 3-4 persons per sleeping room
+HC_MEMB_H_4MM,Households with 4 usual members
+HC_MEMB_H_5MM,Households with 5 usual members
+HC_PPRM_H_56P,Households with 5-6 persons per sleeping room
+HC_MEMB_H_6MM,Households with 6 usual members
+HC_PPRM_H_7PP,Households with 7 + persons per sleeping room
+HC_MEMB_H_7MM,Households with 7 usual members
+HC_MEMB_H_8MM,Households with 8 usual members
+HC_MEMB_H_9MM,Households with 9+ usual members
+WS_TLET_H_FUN,Households with a flush or pour flush toilet to an unknown location
+WS_TLET_H_PSL,Households with a pit latrine with a slab
+WS_TLET_H_NPT,Households with a pit latrine without a slab or an open pit
+WS_TLET_H_VIP,Households with a ventilated improved pit latrine (VIP)
+WS_TLET_H_IMP,Households with an improved sanitation facility
+WS_TLET_H_NIM,Households with an unimproved sanitation facility
+WS_TLET_H_BAS,Households with basic sanitation service
+WS_SRCE_H_BAS,Households with basic water service
+HC_FLRM_H_CER,Households with ceramic tile floors
+HC_ELEC_H_DKM,Households with don't know or missing information on electricity
+HC_RMSL_H_DKM,Households with don't know or missing information on rooms for sleeping
+HC_PPRM_H_DKM,Households with don't know or missing information on sleeping rooms
+WS_TLET_H_DKM,Households with don't know or missing information on toilet facility
+HC_CKFL_H_DKM,Households with don't know or missing information on type of cooking fuel
+HC_FLRM_H_DKM,Households with don't know or missing information on type of flooring
+WS_SRCE_H_DKM,Households with don't know or missing information on water source
+HC_FLRM_H_DNG,Households with dung floors
+HC_FLRM_H_ETH,Households with earth/sand floors
+HC_ELEC_H_ELC,Households with electricity
+HC_FLRM_H_FIN,Households with finished floors
+WS_SRCE_H_IOP,Households with improved water source on the premises
+CN_IODZ_H_IOD,Households with iodized salt
+WS_TLET_H_LTD,Households with limited sanitation service
+WS_SRCE_H_LTD,Households with limited water service
+HC_OLDR_H_W65,Households with members age 65+
+HC_FLRM_H_NAT,Households with natural floors
+HC_ELEC_H_NEL,Households with no electricity
+CN_IODZ_H_NSL,Households with no salt
+HC_RMSL_H_1RM,Households with one room for sleeping
+HC_OLDR_H_O65,Households with only members age 65+
+HC_FLRM_H_OTH,Households with other floors
+HC_FLRM_H_PLM,Households with palm/bamboo floors
+HC_FLRM_H_PQT,Households with parquet or polished wood floors
+HC_FLRM_H_RUD,Households with rudimentary floors
+CN_IODZ_H_SLT,Households with salt tested for iodine content
+HC_RMSL_H_3RM,Households with three or more rooms for sleeping
+HC_RMSL_H_2RM,Households with two rooms for sleeping
+HC_FLRM_H_VIN,Households with vinyl or asphalt strips floors
+WS_TIME_H_L30,Households with water 30 minutes or less away round trip
+WS_TIME_H_M30,Households with water more than 30 minutes away round trip
+WS_TIME_H_ONP,Households with water on the premises
+HC_FLRM_H_WDP,Households with wood plank floors
+HC_MEMB_H_TOT,Households: Total
+WS_TIME_H_TOT,Households: Total
+HC_PPRM_H_TOT,Households: Total
+WS_SRCE_H_TOT,Households: Total
+PR_IDLC_M_ID0,Ideal number of children [Men]: 0
+PR_IDLC_M_ID1,Ideal number of children [Men]: 1
+PR_IDLC_M_ID2,Ideal number of children [Men]: 2
+PR_IDLC_M_ID3,Ideal number of children [Men]: 3
+PR_IDLC_M_ID4,Ideal number of children [Men]: 4
+PR_IDLC_M_ID5,Ideal number of children [Men]: 5
+PR_IDLC_M_ID6,Ideal number of children [Men]: 6+
+PR_IDLC_M_IDN,Ideal number of children [Men]: Non-numeric response
+PR_IDLC_W_ID0,Ideal number of children [Women]: 0
+PR_IDLC_W_ID1,Ideal number of children [Women]: 1
+PR_IDLC_W_ID2,Ideal number of children [Women]: 2
+PR_IDLC_W_ID3,Ideal number of children [Women]: 3
+PR_IDLC_W_ID4,Ideal number of children [Women]: 4
+PR_IDLC_W_ID5,Ideal number of children [Women]: 5
+PR_IDLC_W_ID6,Ideal number of children [Women]: 6+
+PR_IDLC_W_IDN,Ideal number of children [Women]: Non-numeric response
+CM_ECMR_C_IMR,Infant mortality rate
+CM_ECMT_C_IMR,Infant mortality rate (5 year periods)
+CM_ECMT_C_IML,Infant mortality rate (5 year periods) - CI lower bound (-2SE)
+CM_ECMT_C_IMU,Infant mortality rate (5 year periods) - CI upper bound (+2SE)
+CM_ECMT_C_IMX,Infant mortality rate (5 year periods) - relative error
+CM_ECMT_C_IME,Infant mortality rate (5 year periods) - standard error
+CM_ECMR_C_IML,Infant mortality rate - CI lower bound (-2SE)
+CM_ECMR_C_IMU,Infant mortality rate - CI upper bound (+2SE)
+CM_ECMR_C_IMX,Infant mortality rate - relative error
+CM_ECMR_C_IME,Infant mortality rate - standard error
+CN_IYCB_C_CMP,"Introduction of solid, semi-solid or soft foods (6-8 months)"
+WE_JRSX_W_ALL,Justified in refusing sex for all of the reasons
+WE_JRSX_W_NON,Justified in refusing sex for none of the reasons
+WE_JRSX_W_BTH,Justified in refusing sex if she has recently given birth
+WE_JRSX_W_TRD,Justified in refusing sex if she is tired or not in the mood
+WE_JRSX_W_SEX,Justified in refusing sex if she knows husband has sex with other women
+WE_JRSX_W_STI,Justified in refusing sex if she knows husband has sexually transmitted disease
+HA_KHVP_M_CS1,Knowledge of HIV prevention methods - Composite of 2 components (prompted) [Men]
+HA_KHVP_W_CS1,Knowledge of HIV prevention methods - Composite of 2 components (prompted) [Women]
+HA_KHVP_M_SX1,Knowledge of HIV prevention methods - Only one partner (prompted) [Men]
+HA_KHVP_W_SX1,Knowledge of HIV prevention methods - Only one partner (prompted) [Women]
+HA_KHVP_M_CND,Knowledge of HIV prevention methods - Use of condoms (prompted) [Men]
+HA_KHVP_W_CND,Knowledge of HIV prevention methods - Use of condoms (prompted) [Women]
+FP_KMTA_M_IUD,Knowledge of IUD (all men)
+FP_KMTA_W_IUD,Knowledge of IUD (all women)
+FP_KMTM_M_IUD,Knowledge of IUD (married men)
+FP_KMTM_W_IUD,Knowledge of IUD (married women)
+FP_KMTU_W_IUD,Knowledge of IUD (sexually active unmarried women)
+FP_KMTU_M_IUD,Knowledge of IUD (sexually active unmmarried men)
+HA_KMTC_M_DLV,Knowledge of MTCT - During delivery [Men]
+HA_KMTC_W_DLV,Knowledge of MTCT - During delivery [Women]
+HA_KMTC_M_PRG,Knowledge of MTCT - During pregnancy [Men]
+HA_KMTC_W_PRG,Knowledge of MTCT - During pregnancy [Women]
+HA_KMTC_M_PDB,Knowledge of MTCT - Through all 3 means [Men]
+HA_KMTC_W_PDB,Knowledge of MTCT - Through all 3 means [Women]
+HA_KMTC_M_BRF,Knowledge of MTCT - Through breastfeeding [Men]
+HA_KMTC_W_BRF,Knowledge of MTCT - Through breastfeeding [Women]
+CH_KORS_W_ORS,Knowledge of ORS
+HA_CKNY_M_KCN,Knowledge of a formal source of condoms among young men.
+HA_CKNY_W_KCN,Knowledge of a formal source of condoms among young women.
+FP_KMTA_M_ANY,Knowledge of any method of contraception (all men)
+FP_KMTA_W_ANY,Knowledge of any method of contraception (all women)
+FP_KMTM_M_ANY,Knowledge of any method of contraception (married men)
+FP_KMTM_W_ANY,Knowledge of any method of contraception (married women)
+FP_KMTU_W_ANY,Knowledge of any method of contraception (sexually active unmarried women)
+FP_KMTU_M_ANY,Knowledge of any method of contraception (sexually active unmmarried men)
+FP_KMET_M_ANY,Knowledge of any method of contraception among married men
+FP_KMET_W_ANY,Knowledge of any method of contraception among married women
+FP_KMTA_M_MOD,Knowledge of any modern method of contraception (all men)
+FP_KMTA_W_MOD,Knowledge of any modern method of contraception (all women)
+FP_KMTM_M_MOD,Knowledge of any modern method of contraception (married men)
+FP_KMTM_W_MOD,Knowledge of any modern method of contraception (married women)
+FP_KMTU_W_MOD,Knowledge of any modern method of contraception (sexually active unmarried women)
+FP_KMTU_M_MOD,Knowledge of any modern method of contraception (sexually active unmmarried men)
+FP_KMET_M_MOD,Knowledge of any modern method of contraception amonth married men
+FP_KMET_W_MOD,Knowledge of any modern method of contraception amonth married women
+FP_KMTA_M_TRA,Knowledge of any traditional method (all men)
+FP_KMTA_W_TRA,Knowledge of any traditional method (all women)
+FP_KMTM_M_TRA,Knowledge of any traditional method (married men)
+FP_KMTM_W_TRA,Knowledge of any traditional method (married women)
+FP_KMTU_W_TRA,Knowledge of any traditional method (sexually active unmarried women)
+FP_KMTU_M_TRA,Knowledge of any traditional method (sexually active unmmarried men)
+FP_KMTA_M_MCN,Knowledge of condom (all men)
+FP_KMTA_W_MCN,Knowledge of condom (all women)
+FP_KMTM_M_MCN,Knowledge of condom (married men)
+FP_KMTM_W_MCN,Knowledge of condom (married women)
+FP_KMTU_W_MCN,Knowledge of condom (sexually active unmarried women)
+FP_KMTU_M_MCN,Knowledge of condom (sexually active unmmarried men)
+FP_KMTA_M_DIA,Knowledge of diaphragm (all men)
+FP_KMTA_W_DIA,Knowledge of diaphragm (all women)
+FP_KMTM_M_DIA,Knowledge of diaphragm (married men)
+FP_KMTM_W_DIA,Knowledge of diaphragm (married women)
+FP_KMTU_W_DIA,Knowledge of diaphragm (sexually active unmarried women)
+FP_KMTU_M_DIA,Knowledge of diaphragm (sexually active unmmarried men)
+FP_KMTA_M_DFJ,"Knowledge of diaphragm, foam or jelly (all men)"
+FP_KMTM_M_DFJ,"Knowledge of diaphragm, foam or jelly (married men)"
+FP_KMTU_M_DFJ,"Knowledge of diaphragm, foam or jelly (sexually active unmmarried men)"
+FP_KMTA_M_EMC,Knowledge of emergency contraception (all men)
+FP_KMTA_W_EMC,Knowledge of emergency contraception (all women)
+FP_KMTM_M_EMC,Knowledge of emergency contraception (married men)
+FP_KMTM_W_EMC,Knowledge of emergency contraception (married women)
+FP_KMTU_W_EMC,Knowledge of emergency contraception (sexually active unmarried women)
+FP_KMTU_M_EMC,Knowledge of emergency contraception (sexually active unmmarried men)
+FP_KMTA_M_FCN,Knowledge of female condom (all men)
+FP_KMTA_W_FCN,Knowledge of female condom (all women)
+FP_KMTM_M_FCN,Knowledge of female condom (married men)
+FP_KMTM_W_FCN,Knowledge of female condom (married women)
+FP_KMTU_W_FCN,Knowledge of female condom (sexually active unmarried women)
+FP_KMTU_M_FCN,Knowledge of female condom (sexually active unmmarried men)
+FP_KMTA_M_FST,Knowledge of female sterilization (all men)
+FP_KMTA_W_FST,Knowledge of female sterilization (all women)
+FP_KMTM_M_FST,Knowledge of female sterilization (married men)
+FP_KMTM_W_FST,Knowledge of female sterilization (married women)
+FP_KMTU_W_FST,Knowledge of female sterilization (sexually active unmarried women)
+FP_KMTU_M_FST,Knowledge of female sterilization (sexually active unmmarried men)
+FP_KMTA_M_FOM,Knowledge of foam or jelly (all men)
+FP_KMTA_W_FOM,Knowledge of foam or jelly (all women)
+FP_KMTM_M_FOM,Knowledge of foam or jelly (married men)
+FP_KMTM_W_FOM,Knowledge of foam or jelly (married women)
+FP_KMTU_W_FOM,Knowledge of foam or jelly (sexually active unmarried women)
+FP_KMTU_M_FOM,Knowledge of foam or jelly (sexually active unmmarried men)
+FP_KMTA_M_IMP,Knowledge of implants (all men)
+FP_KMTA_W_IMP,Knowledge of implants (all women)
+FP_KMTM_M_IMP,Knowledge of implants (married men)
+FP_KMTM_W_IMP,Knowledge of implants (married women)
+FP_KMTU_W_IMP,Knowledge of implants (sexually active unmarried women)
+FP_KMTU_M_IMP,Knowledge of implants (sexually active unmmarried men)
+FP_KMTA_M_INJ,Knowledge of injections (all men)
+FP_KMTA_W_INJ,Knowledge of injections (all women)
+FP_KMTM_M_INJ,Knowledge of injections (married men)
+FP_KMTM_W_INJ,Knowledge of injections (married women)
+FP_KMTU_W_INJ,Knowledge of injections (sexually active unmarried women)
+FP_KMTU_M_INJ,Knowledge of injections (sexually active unmmarried men)
+FP_KMTA_M_LAM,Knowledge of lactational amenorrhea method (all men)
+FP_KMTA_W_LAM,Knowledge of lactational amenorrhea method (all women)
+FP_KMTM_M_LAM,Knowledge of lactational amenorrhea method (married men)
+FP_KMTM_W_LAM,Knowledge of lactational amenorrhea method (married women)
+FP_KMTU_W_LAM,Knowledge of lactational amenorrhea method (sexually active unmarried women)
+FP_KMTU_M_LAM,Knowledge of lactational amenorrhea method (sexually active unmmarried men)
+FP_KMTA_M_MST,Knowledge of male sterilization (all men)
+FP_KMTA_W_MST,Knowledge of male sterilization (all women)
+FP_KMTM_M_MST,Knowledge of male sterilization (married men)
+FP_KMTM_W_MST,Knowledge of male sterilization (married women)
+FP_KMTU_W_MST,Knowledge of male sterilization (sexually active unmarried women)
+FP_KMTU_M_MST,Knowledge of male sterilization (sexually active unmmarried men)
+FP_KMTA_M_OTR,Knowledge of other traditional methods (all men)
+FP_KMTA_W_OTR,Knowledge of other traditional methods (all women)
+FP_KMTM_M_OTR,Knowledge of other traditional methods (married men)
+FP_KMTM_W_OTR,Knowledge of other traditional methods (married women)
+FP_KMTU_W_OTR,Knowledge of other traditional methods (sexually active unmarried women)
+FP_KMTU_M_OTR,Knowledge of other traditional methods (sexually active unmmarried men)
+FP_KMTA_M_RHY,Knowledge of periodic abstinence (all men)
+FP_KMTA_W_RHY,Knowledge of periodic abstinence (all women)
+FP_KMTM_M_RHY,Knowledge of periodic abstinence (married men)
+FP_KMTM_W_RHY,Knowledge of periodic abstinence (married women)
+FP_KMTU_W_RHY,Knowledge of periodic abstinence (sexually active unmarried women)
+FP_KMTU_M_RHY,Knowledge of periodic abstinence (sexually active unmmarried men)
+FP_KMTA_M_PIL,Knowledge of pill (all men)
+FP_KMTA_W_PIL,Knowledge of pill (all women)
+FP_KMTM_M_PIL,Knowledge of pill (married men)
+FP_KMTM_W_PIL,Knowledge of pill (married women)
+FP_KMTU_W_PIL,Knowledge of pill (sexually active unmarried women)
+FP_KMTU_M_PIL,Knowledge of pill (sexually active unmmarried men)
+FP_KMTA_M_WTH,Knowledge of withdrawal (all men)
+FP_KMTA_W_WTH,Knowledge of withdrawal (all women)
+FP_KMTM_M_WTH,Knowledge of withdrawal (married men)
+FP_KMTM_W_WTH,Knowledge of withdrawal (married women)
+FP_KMTU_W_WTH,Knowledge of withdrawal (sexually active unmarried women)
+FP_KMTU_M_WTH,Knowledge of withdrawal (sexually active unmmarried men)
+MM_MMRO_W_LTP,Lifetime risk of pregnancy-related death
+ED_EDAT_M_HGH,Male population age 6 and over who attended higher education
+ED_EDAT_M_PRI,Male population age 6 and over who attended primary education
+ED_EDAT_M_SEC,Male population age 6 and over who attended secondary education
+ED_EDAT_M_CPR,Male population age 6 and over with completed primary education
+ED_EDAT_M_CSC,Male population age 6 and over with completed secondary education
+ED_EDAT_M_DKM,Male population age 6 and over with don't know or missing information on level of education
+ED_EDAT_M_NED,Male population age 6 and over with no education
+ED_EDAT_M_SPR,Male population age 6 and over with some primary education
+ED_EDAT_M_SSC,Male population age 6 and over with some secondary education
+ED_EDAT_M_TOT,Male population age 6 and over: Total
+HC_HHHD_H_MAL,Male-headed households
+MA_ADIF_W_SAM,Man and woman are the same age
+MA_ADIF_W_YNG,Man is younger than woman
+EM_EMPM_M_EMP,Married men employed in the last 12 months
+EM_ERNM_M_CAK,Married men who worked for cash and in-kind payment
+EM_ERNM_M_CSH,Married men who worked for cash only
+EM_ERNM_M_KND,Married men who worked for in-kind payment only
+EM_ERNM_M_NPD,Married men who worked unpaid
+EM_ERNM_M_DKM,Married men with missing information on type of earnings
+PR_DESC_M_TOT,Married men: Total
+FP_CUSM_W_IUD,Married women currently using IUD
+FP_CUSM_W_ANY,Married women currently using any method of contraception
+FP_CUSM_W_MOD,Married women currently using any modern method of contraception
+FP_CUSM_W_TRA,Married women currently using any traditional method
+FP_CUSM_W_MCN,Married women currently using condom
+FP_CUSM_W_DIA,Married women currently using diaphragm
+FP_CUSM_W_DFJ,"Married women currently using diaphragm, foam or jelly"
+FP_CUSM_W_FST,Married women currently using female sterilization
+FP_CUSM_W_FOM,Married women currently using foam or jelly
+FP_CUSM_W_IMP,Married women currently using implants
+FP_CUSM_W_INJ,Married women currently using injections
+FP_CUSM_W_LAM,Married women currently using lactational amenorrhea
+FP_CUSM_W_OTR,Married women currently using other traditional methods
+FP_CUSM_W_RHY,Married women currently using periodic abstinence
+FP_CUSM_W_PIL,Married women currently using pill
+FP_CUSM_W_WTH,Married women currently using withdrawal
+EM_EMPM_W_EMP,Married women employed in the last 12 months
+EM_WERN_W_TOT,Married women employed in the last 12 months receiving cash earnings: Total
+FP_FUTU_W_NUM,Married women not currently using a contraceptive method
+FP_FUTU_W_UNW,Married women not currently using a contraceptive method (unweighted)
+FP_CUSM_W_NCU,Married women not currently using any method
+WE_WEMP_W_DMK,Married women participating in all three decisions
+FP_RNIU_W_NUM,Married women who are not using a contraceptive method and who do not intend to use in the future
+FP_RNIU_W_UNW,Married women who are not using a contraceptive method and who do not intend to use in the future (unweighted)
+WE_WEMP_W_DWB,Married women who disagree with all the reasons justifying wife beating
+EM_ERNM_W_CAK,Married women who worked for cash and in-kind payment
+EM_ERNM_W_CSH,Married women who worked for cash only
+EM_ERNM_W_KND,Married women who worked for in-kind payment only
+EM_ERNM_W_NPD,Married women who worked unpaid
+FE_CEBM_W_CH1,Married women with 1 child ever born
+FE_CEBM_W_C10,Married women with 10+ children ever born
+FE_CEBM_W_CH2,Married women with 2 children ever born
+FE_CEBM_W_CH3,Married women with 3 children ever born
+FE_CEBM_W_CH4,Married women with 4 children ever born
+FE_CEBM_W_CH5,Married women with 5 children ever born
+FE_CEBM_W_CH6,Married women with 6 children ever born
+FE_CEBM_W_CH7,Married women with 7 children ever born
+FE_CEBM_W_CH8,Married women with 8 children ever born
+FE_CEBM_W_CH9,Married women with 9 children ever born
+EM_ERNM_W_DKM,Married women with missing information on type of earnings
+FE_CEBM_W_CH0,Married women with no children ever born
+PR_DESC_W_TOT,Married women: Total
+MA_CWIV_W_TOT,Married women: Total
+FP_CUSM_W_TOT,Married women: Total
+FE_CEBM_W_TOT,Married women: Total
+EM_ERNM_W_TOT,Married women: Total
+AN_NUTS_W_BMI,Mean Body Mass Index (BMI) for women
+CN_BFDR_C_MNA,Mean duration of any breastfeeding
+CN_BFDR_C_MNE,Mean duration of exclusive breastfeeding
+SV_INTV_M_MNI,Mean duration of men's interview
+CN_BFDR_C_MNP,Mean duration of predominant breastfeeding
+SV_INTV_W_MNI,Mean duration of women's interview
+FE_PPIS_W_MNB,Mean duration postpartum abstaining
+FE_PPIS_W_MNA,Mean duration postpartum amenorrheic
+FE_PPIS_W_MNI,Mean duration postpartum insusceptible
+CN_NUTS_C_HAM,Mean height for age of children
+PR_IDLC_M_MNA,Mean ideal number of children for all men
+PR_IDLC_M_M5A,Mean ideal number of children for all men 15-54(59)
+PR_MIDL_W_MNA,Mean ideal number of children for all women
+PR_IDLC_W_MNA,Mean ideal number of children for all women
+PR_IDLC_M_MNM,Mean ideal number of children for currently married men
+PR_IDLC_M_M5M,Mean ideal number of children for currently married men 15-54(59)
+PR_IDLC_W_MNM,Mean ideal number of children for currently married women
+FE_CEBA_W_MND,Mean number of children died
+FE_CEBM_W_MND,Mean number of children died to married women
+FE_CEBA_W_MNC,Mean number of children ever born
+FE_CEBM_W_MNC,Mean number of children ever born to married women
+FP_KMTM_M_MNM,Mean number of contraceptive methods known (married men age 15-49)
+FP_KMTU_W_MNM,Mean number of contraceptive methods known (sexually active unmarried women)
+HC_MEMB_H_MNM,Mean number of household members
+FE_CEBA_W_MNL,Mean number of living children
+FE_CEBM_W_MNL,Mean number of living children to married women
+FP_KMTA_W_MNM,Mean number of methods known
+FP_KMTA_M_MNM,Mean number of methods known (all men)
+FP_KMTM_W_MNM,Mean number of methods known (married women)
+FP_KMTU_M_MNM,Mean number of methods known by sexually active unmarried men age 15-49
+HC_PPRM_H_MNP,Mean number of persons per sleeping room
+CN_NUTS_C_WAM,Mean weight for age of children
+CN_NUTS_C_WHM,Mean weight for height of children
+CH_VACS_C_MSL,Measles vaccination received
+CH_VACC_C_MSL,Measles vaccination received
+CH_VAC1_C_MSL,Measles vaccination received in first year
+FE_AAFB_W_M2A,Median age at first birth for women age 20-49
+FE_AAFB_W_M25,Median age at first birth for women age 25-29
+FE_AAFB_W_M2B,Median age at first birth for women age 25-49
+FE_AAFB_W_M30,Median age at first birth for women age 30-34
+FE_AAFB_W_M35,Median age at first birth for women age 35-39
+FE_AAFB_W_M40,Median age at first birth for women age 40-44
+FE_AAFB_W_M45,Median age at first birth for women age 45-49
+MA_AAFM_M_M25,Median age at first marriage [Men]: 25-29
+MA_AAFM_M_M2B,"Median age at first marriage [Men]: 25-49(54,59)"
+MA_AAFM_M_M30,Median age at first marriage [Men]: 30-34
+MA_AAFM_M_M35,Median age at first marriage [Men]: 35-39
+MA_AAFM_M_M40,Median age at first marriage [Men]: 40-44
+MA_AAFM_M_M45,Median age at first marriage [Men]: 45-49
+MA_AAFM_M_M50,Median age at first marriage [Men]: 50-54
+MA_AAFM_M_M55,Median age at first marriage [Men]: 55-59
+MA_AAFM_M_M60,Median age at first marriage [Men]: 60-64
+MA_AAFM_W_M20,Median age at first marriage [Women]: 20-24
+MA_AAFM_W_M2A,Median age at first marriage [Women]: 20-49
+MA_AAFM_W_M25,Median age at first marriage [Women]: 25-29
+MA_AAFM_W_M2B,Median age at first marriage [Women]: 25-49
+MA_AAFM_W_M30,Median age at first marriage [Women]: 30-34
+MA_AAFM_W_M35,Median age at first marriage [Women]: 35-39
+MA_AAFM_W_M40,Median age at first marriage [Women]: 40-44
+MA_AAFM_W_M45,Median age at first marriage [Women]: 45-49
+SX_AAFS_M_M20,Median age at first sexual intercourse [Men]: 20-24
+SX_AAFS_M_M2A,"Median age at first sexual intercourse [Men]: 20-49(54,59)"
+SX_AAFS_M_M25,Median age at first sexual intercourse [Men]: 25-29
+SX_AAFS_M_M2B,"Median age at first sexual intercourse [Men]: 25-49(54,59)"
+SX_AAFS_M_M30,Median age at first sexual intercourse [Men]: 30-34
+SX_AAFS_M_M35,Median age at first sexual intercourse [Men]: 35-39
+SX_AAFS_M_M40,Median age at first sexual intercourse [Men]: 40-44
+SX_AAFS_M_M45,Median age at first sexual intercourse [Men]: 45-49
+SX_AAFS_M_M50,Median age at first sexual intercourse [Men]: 50-54
+SX_AAFS_M_M55,Median age at first sexual intercourse [Men]: 55-59
+SX_AAFS_M_M60,Median age at first sexual intercourse [Men]: 60-64
+SX_AAFS_W_M20,Median age at first sexual intercourse [Women]: 20-24
+SX_AAFS_W_M2A,Median age at first sexual intercourse [Women]: 20-49
+SX_AAFS_W_M25,Median age at first sexual intercourse [Women]: 25-29
+SX_AAFS_W_M2B,Median age at first sexual intercourse [Women]: 25-49
+SX_AAFS_W_M30,Median age at first sexual intercourse [Women]: 30-34
+SX_AAFS_W_M35,Median age at first sexual intercourse [Women]: 35-39
+SX_AAFS_W_M40,Median age at first sexual intercourse [Women]: 40-44
+SX_AAFS_W_M45,Median age at first sexual intercourse [Women]: 45-49
+FE_BINT_C_MED,Median birth interval (months)
+SV_INTV_H_YRI,Median date of interview
+CN_BFDR_C_MDA,Median duration of any breastfeeding
+CN_BFDR_C_MDE,Median duration of exclusive breastfeeding
+SV_INTV_M_MED,Median duration of men's interview
+CN_BFDR_C_MDP,Median duration of predominant breastfeeding
+SV_INTV_W_MED,Median duration of women's interview
+FE_PPID_W_MDB,Median duration postpartum abstaining
+FE_PPID_W_MDA,Median duration postpartum amenorrheic
+FE_PPID_W_MDI,Median duration postpartum insusceptible
+RH_ANCT_W_MED,Median months of pregnancy at first antenatal care visit
+ED_EDAT_B_MYR,Median number of years of education: Both sexes
+ED_EDAT_W_MYR,Median number of years of education: Female
+ED_EDAT_M_MYR,Median number of years of education: Male
+ED_EDUC_M_MYR,Median years of education completed [Men]
+EM_EMPL_M_TOT,Men : Total
+HA_CPHT_M_EVT,Men ever receiving an HIV test
+MA_MBAG_M_B15,Men first married by exact age 15
+MA_MBAG_M_B18,Men first married by exact age 18
+MA_MBAG_M_B20,Men first married by exact age 20
+MA_MBAG_M_B22,Men first married by exact age 22
+MA_MBAG_M_B25,Men first married by exact age 25
+ED_LITR_M_NCD,Men for whom no card with required language was available
+MA_MBAG_M_NMA,Men never married
+HA_CPHT_M_NEV,Men never tested for HIV
+HA_STIS_M_DIS,Men reporting a bad smelling or abnormal genital discharge
+HA_STIS_M_SOR,Men reporting a genital sore or ulcer
+HA_STIS_M_STI,Men reporting an STI
+HA_STIS_M_AST,"Men reporting an STI, genital dicharge, or a sore or ulcer"
+FG_OFCR_M_DKM,Men that don't know if religion requires female circumcision
+ED_LITR_M_LIT,Men who are literate
+FG_OFCC_M_CNT,Men who believe that female circumcision should be continued
+FG_OFCC_M_NCN,Men who believe that female circumcision should not be continued
+ED_LITR_M_RDW,Men who can read a whole sentence
+ED_LITR_M_RDP,Men who can read part of a sentence
+ED_LITR_M_NRD,Men who cannot read at all
+EM_EMPL_M_N12,Men who did no work in the last 12 months
+FG_OFCC_M_DKM,Men who do not know whether female circumcision should be continued
+HA_MSXP_M_NCP,"Men who had sexual intercourse with non-marital, non-cohabiting partner"
+HA_KAID_M_HRD,Men who have heard of HIV or AIDS
+HA_CPHT_M_KNW,Men who know where to get an HIV test
+ED_MDIA_M_RDO,Men who listen to the radio at least once a week
+ED_MDIA_M_NWS,Men who read a newspaper at least once a week
+PR_DESL_M_WNM,Men who want no more children
+ED_MDIA_M_TLV,Men who watch television at least once a week
+EM_EMPL_M_EMC,Men who worked in the last 12 months and are currently
+EM_EMPL_M_ENC,"Men who worked in the last 12 months, but not currently"
+ED_MDIA_M_3MD,"Men with access to newspaper, television and radio at least once a week"
+ED_EDUC_M_CPR,Men with completed primary education
+ED_EDUC_M_CSC,Men with completed secondary education
+EM_OCCP_M_DKM,Men with don't know or missing information on occupation
+EM_EMPL_M_DKM,Men with don't know or missing information on whether they worked in the last 12 months
+ED_LITR_M_MIS,Men with missing information on literacy
+ED_EDUC_M_HGH,Men with more than secondary education
+ED_MDIA_M_N3M,Men with no access to mass media
+ED_EDUC_M_NED,Men with no education
+ED_EDUC_M_PRI,Men with primary education
+ED_EDUC_M_SEH,Men with secondary or higher education
+ED_LITR_M_SCH,Men with secondary or higher education
+ED_EDUC_M_SPR,Men with some primary education
+ED_EDUC_M_SSC,Men with some secondary education
+ED_EDUC_M_TOT,Men's education: Total
+ED_LITR_M_TOT,Men's literacy: Total
+EM_OCCP_M_AGR,Men's occupation: Agriculture
+EM_OCCP_M_CLR,Men's occupation: Clerical
+EM_OCCP_M_DOM,Men's occupation: Household & domestic
+EM_OCCP_M_OTH,Men's occupation: Other
+EM_OCCP_M_PRO,"Men's occupation: Professional, technical, managerial"
+EM_OCCP_M_SAL,"Men's occupation: Sales, services"
+EM_OCCP_M_MNS,Men's occupation: Skilled manual
+EM_OCCP_M_TOT,Men's occupation: Total
+EM_OCCP_M_MNU,Men's occupation: Unskilled manual
+FG_OFCR_M_NRQ,Men's opinion that religion does not requires female circumcision
+FG_OFCR_M_REQ,Men's opinion that religion requires female circumcision
+SV_HRSM_H_ABS,Men's survey sample implementation: Households absent
+SV_HRSM_H_INT,Men's survey sample implementation: Households completed
+SV_HRSM_H_DES,Men's survey sample implementation: Households dwelling destroyed
+SV_HRSM_H_DNF,Men's survey sample implementation: Households dwelling not found
+SV_HRSM_H_VAC,Men's survey sample implementation: Households dwelling vacant
+SV_HRSM_H_NOR,Men's survey sample implementation: Households no competent respondent
+SV_HRSM_H_OTH,Men's survey sample implementation: Households other
+SV_HRSM_H_POS,Men's survey sample implementation: Households postponed
+SV_HRSM_H_REF,Men's survey sample implementation: Households refused
+SV_HRSM_H_TOT,Men's survey sample implementation: Households total percent
+SX_LSEX_M_TOT,Men: Total
+PR_IDLC_M_TOT,Men: Total
+MA_MSTA_M_TOT,Men: Total
+FG_OFCR_M_TOT,Men: Total
+FG_OFCC_M_TOT,Men: Total
+EM_ERNM_M_TOT,Men: Total
+FP_NADM_W_MNL,Met need for family planning (currently using) for limiting
+FP_NADA_W_MNL,Met need for family planning (currently using) for limiting (all women)
+FP_NDYA_W_MNL,Met need for family planning (currently using) for limiting (all young women)
+FP_NDYM_W_MNL,Met need for family planning (currently using) for limiting (married young women)
+FP_NADU_W_MNL,Met need for family planning (currently using) for limiting (sexually active unmarried women)
+FP_NDYU_W_MNL,Met need for family planning (currently using) for limiting (sexually active unmarried young women)
+FP_NADM_W_MNS,Met need for family planning (currently using) for spacing
+FP_NADA_W_MNS,Met need for family planning (currently using) for spacing (all women)
+FP_NDYA_W_MNS,Met need for family planning (currently using) for spacing (all young women)
+FP_NDYM_W_MNS,Met need for family planning (currently using) for spacing (married young women)
+FP_NADU_W_MNS,Met need for family planning (currently using) for spacing (sexually active unmarried women)
+FP_NDYU_W_MNS,Met need for family planning (currently using) for spacing (sexually active unmarried young women)
+FP_NADM_W_MNT,"Met need for family planning (currently using), total"
+FP_NADA_W_MNT,"Met need for family planning (currently using), total (all women)"
+FP_NDYA_W_MNT,"Met need for family planning (currently using), total (all young women)"
+FP_NDYM_W_MNT,"Met need for family planning (currently using), total (married young women)"
+FP_NADU_W_MNT,"Met need for family planning (currently using), total (sexually active unmarried women)"
+FP_NDYU_W_MNT,"Met need for family planning (currently using), total (sexually active unmarried young women)"
+CM_ECMR_C_NNR,Neonatal mortality rate
+CM_ECMT_C_NNR,Neonatal mortality rate (5 year periods)
+CM_ECMT_C_NNL,Neonatal mortality rate (5 year periods) - CI lower bound (-2SE)
+CM_ECMT_C_NNU,Neonatal mortality rate (5 year periods) - CI upper bound (+2SE)
+CM_ECMT_C_NNX,Neonatal mortality rate (5 year periods) - relative error
+CM_ECMT_C_NNE,Neonatal mortality rate (5 year periods) - standard error
+CM_ECMR_C_NNL,Neonatal mortality rate - CI lower bound (-2SE)
+CM_ECMR_C_NNU,Neonatal mortality rate - CI upper bound (+2SE)
+CM_ECMR_C_NNX,Neonatal mortality rate - relative error
+CM_ECMR_C_NNE,Neonatal mortality rate - standard error
+ED_NARP_W_FEM,Net primary school attendance rate: Female
+ED_NARP_M_MAL,Net primary school attendance rate: Male
+ED_NARP_B_BTH,Net primary school attendance rate: Total
+ED_NARS_W_FEM,Net secondary school attendance rate: Female
+ED_NARS_M_MAL,Net secondary school attendance rate: Male
+ED_NARS_B_BTH,Net secondary school attendance rate: Total
+SX_SBAG_M_NSX,Never had sexual intercourse [Men]
+SX_SBAG_W_NSX,Never had sexual intercourse [Women]
+SX_SBAY_M_NSX,Never had sexual intercourse [Young men]
+SX_SBAY_W_NSX,Never had sexual intercourse [Young women]
+RH_ANCP_W_NON,No antenatal care
+HA_CKNA_M_MOS,No incorrect beliefs about AIDS - AIDS cannot be transmitted by mosquito bites [Men]
+HA_CKNA_W_MOS,No incorrect beliefs about AIDS - AIDS cannot be transmitted by mosquito bites [Women]
+HA_CKNA_M_SHR,No incorrect beliefs about AIDS - Cannot become infected by sharing food with someone who has AIDS [Men]
+HA_CKNA_W_SHR,No incorrect beliefs about AIDS - Cannot become infected by sharing food with someone who has AIDS [Women]
+HA_CKNA_M_HLT,No incorrect beliefs about AIDS - Healthy-looking person can have the AIDS virus [Men]
+HA_CKNA_W_HLT,No incorrect beliefs about AIDS - Healthy-looking person can have the AIDS virus [Women]
+CN_FDNB_C_INF,Non-breastfeeding children receiving infant formula
+CN_FDNB_C_LIQ,Non-breastfeeding children receiving other liquids
+CN_FDNB_C_MLK,Non-breastfeeding children receiving other milk
+FP_NFPP_W_FPW,Nonusers visited by FP worker and told about FP
+FP_NFPP_W_NFP,Nonusers who did not discuss FP with a fieldworker or at a health facility
+FP_NFPP_W_HFP,Nonusers who visited a health facility and discussed FP
+FP_NFPP_W_HNF,Nonusers who visited a health facility but did not discuss FP
+FE_PPIS_W_NUM,Number of births
+FE_PPIS_W_UNW,Number of births (unweighted)
+CM_HRFR_U_A1B,Number of births (unweighted) in risk category: Age < 18 & birth interval < 24 months
+CM_HRFR_U_A2B,Number of births (unweighted) in risk category: Age > 34 & birth interval < 24 months
+CM_HRFR_U_ABO,Number of births (unweighted) in risk category: Age > 34 & birth order > 3
+CM_HRFR_U_A3B,"Number of births (unweighted) in risk category: Age > 34, birth interval < 24 and birth order > 3"
+CM_HRFR_U_BIO,Number of births (unweighted) in risk category: Birth interval < 24 & birth order > 3
+CM_HRFR_U_B24,Number of births (unweighted) in risk category: Birth interval < 24 months
+CM_HRFR_U_B1S,Number of births (unweighted) in risk category: Birth interval < 24 months subtotal
+CM_HRFR_U_BO3,Number of births (unweighted) in risk category: Birth order > 3
+CM_HRFR_U_B3S,Number of births (unweighted) in risk category: Birth order > 3 subtotal
+CM_HRFR_U_FOB,Number of births (unweighted) in risk category: First birth
+CM_HRFR_U_A18,Number of births (unweighted) in risk category: Mother's age < 18
+CM_HRFR_U_A1S,Number of births (unweighted) in risk category: Mother's age < 18 subtotal
+CM_HRFR_U_A34,Number of births (unweighted) in risk category: Mother's age > 34
+CM_HRFR_U_A3S,Number of births (unweighted) in risk category: Mother's age > 34 subtotal
+CM_HRFR_U_MLT,Number of births (unweighted) in risk category: Multiple risk categories
+CM_HRFR_U_NON,Number of births (unweighted) in risk category: Not in any risk category
+CM_HRFR_U_SNG,Number of births (unweighted) in risk category: Single risk category
+FE_BORD_C_NUM,Number of births in the 2 years preceding the survey
+FE_BORD_C_UNW,Number of births in the 2 years preceding the survey (Unweighted)
+PR_PLST_W_NUM,Number of births in the last five (or three) years
+PR_PLST_W_UNW,Number of births in the last five (or three) years (unweighted)
+CN_BFDR_C_NUM,Number of children
+CN_BFDR_C_UNW,Number of children (unweighted)
+CH_VACS_C_NUM,Number of children 12-23 months
+CH_VACC_C_NUM,Number of children 12-23 months
+CH_VACS_C_UNW,Number of children 12-23 months (unweighted)
+CH_VACC_C_UNW,Number of children 12-23 months (unweighted)
+CH_VACC_C_NM2,Number of children 24-35 months
+CH_VACC_C_UN2,Number of children 24-35 months (unweighted)
+CN_IYCB_C_BNN,Number of children age 0-23 months
+CN_IYCB_C_AGN,Number of children age 0-23 months
+CN_IYCB_C_MBN,Number of children age 0-5 months
+CN_IYCB_C_PBN,Number of children age 0-5 months
+HC_LVAY_C_NUM,Number of children age 10-14
+HC_LVAY_C_UNW,Number of children age 10-14 (unweighted)
+CN_IYCB_C_B1N,Number of children age 12-15 months
+CH_VACP_C_NM1,Number of children age 12-23 months
+CH_VACP_C_UN1,Number of children age 12-23 months (unweighted)
+CN_IYCB_C_B2N,Number of children age 20-23 months
+CH_VACP_C_NM2,Number of children age 24-35 months
+CH_VACP_C_UN2,Number of children age 24-35 months (unweighted)
+CN_IYCB_C_E4N,Number of children age 4-5 months
+CN_IYCB_C_CMN,Number of children age 6-8 months
+CN_FDBF_C_NUM,Number of children being breastfed
+CN_FDBF_C_UNW,Number of children being breastfed (unweighted)
+CH_FEVR_C_NUM,Number of children born in the last five (or three) years
+CH_ARIS_C_NUM,Number of children born in the last five (or three) years
+CH_DIAR_C_NUM,Number of children born in the last five (or three) years
+CH_DIAT_C_NUM,Number of children born in the last five (or three) years
+CH_FEVR_C_UNW,Number of children born in the last five (or three) years (unweighted)
+CH_ARIS_C_UNW,Number of children born in the last five (or three) years (unweighted)
+CH_DIAT_C_UNW,Number of children born in the last five (or three) years (unweighted)
+CH_DIAR_C_UNW,Number of children born in the last five (or three) years (unweighted)
+CH_DIFP_C_NUM,Number of children born in the last five (or three) years who had diarrhea in the last two weeks
+CH_DIFP_C_UNW,Number of children born in the last five (or three) years who had diarrhea in the last two weeks (unweighted)
+CM_HRFB_C_NUM,Number of children born in the last five years
+CM_HRFB_C_UNW,Number of children born in the last five years (unweighted)
+CN_FDNB_C_NUM,Number of children not being breastfed
+CN_FDNB_C_UNW,Number of children not being breastfed (unweighted)
+CH_VAC1_C_NUM,Number of children one to four years of age
+CH_VAC1_C_UNW,Number of children one to four years of age (unweighted)
+CN_ANMC_C_NUM,Number of children under age 5
+CN_ANMC_C_UNW,Number of children under age 5 (unweighted)
+CN_IYCB_C_EXN,Number of children under age 6 months
+CN_NUTS_C_HAN,Number of children under age five for height-for-age
+CN_NUTS_C_HAU,Number of children under age five for height-for-age (unweighted)
+CN_NUTS_C_WAN,Number of children under age five for weight-for-age
+CN_NUTS_C_WAU,Number of children under age five for weight-for-age (unweighted)
+CN_NUTS_C_WHN,Number of children under age five for weight-for-height
+CN_NUTS_C_WHU,Number of children under age five for weight-for-height (unweighted)
+CN_BRFS_C_NM2,Number of children under two years of age
+CN_BRFS_C_UN2,Number of children under two years of age (unweighted)
+ED_SCHA_C_NMA,Number of children with both parents alive and living with at least one parent
+ED_SCHA_C_UNA,Number of children with both parents alive and living with at least one parent (unweighted)
+ED_SCHA_C_NMD,Number of children with both parents deceased
+ED_SCHA_C_UND,Number of children with both parents deceased (unweighted)
+CH_DISS_C_NUM,Number of children with diarrhea
+CH_DISS_C_UNW,Number of children with diarrhea (unweighted)
+CH_DISA_C_NUM,Number of children with diarrhea for whom advice or treatment was sought
+CH_DISA_C_UNW,Number of children with diarrhea for whom advice or treatment was sought (unweighted)
+CH_DISO_C_NUM,Number of children with diarrhea who received ORS
+CH_DISO_C_UNW,Number of children with diarrhea who received ORS (unweighted)
+CH_FEVT_C_NUM,Number of children with fever in the last two weeks
+CH_FEVT_C_UNW,Number of children with fever in the last two weeks (unweighted)
+CH_ARSS_C_NUM,Number of children with symptoms of ARI
+CH_ARSS_C_UNW,Number of children with symptoms of ARI (unweighted)
+CH_ARIS_C_NM2,Number of children with symptoms of ARI born in the last five (or three) years
+CH_ARIS_C_UN2,Number of children with symptoms of ARI born in the last five (or three) years (unweighted)
+CH_ARSA_C_NUM,Number of children with symptoms of ARI for whom advice or treatment was sought
+CH_ARSA_C_UNW,Number of children with symptoms of ARI for whom advice or treatment was sought (unweighted)
+FG_AFCC_W_NUM,Number of circumcised women
+FG_PFCT_W_NUM,Number of circumcised women
+FG_AFCC_W_UNW,Number of circumcised women (unweighted)
+FG_PFCT_W_UNW,Number of circumcised women (unweighted)
+MA_CWIV_W_0WV,Number of co-wives: No other wives
+MA_CWIV_W_CWV,Number of co-wives: One or more wives
+MA_CWIV_W_1WV,Number of co-wives: One other wife
+MA_CWIV_W_2PW,Number of co-wives: Two or more wives
+MA_CWIV_W_DKM,Number of co-wives: don't know or missing
+WE_DMKH_M_NUM,Number of currently married men
+WE_DMAK_M_NUM,Number of currently married men
+WE_AWBT_M_NUM,Number of currently married men
+PR_DESC_M_NUM,Number of currently married men
+WE_DMKP_M_NUM,Number of currently married men
+PR_DESC_M_UNW,Number of currently married men (unweighted)
+WE_AWBT_M_UNW,Number of currently married men (unweighted)
+PR_DESL_M_UNW,Number of currently married men (unweighted)
+WE_DMAK_M_UNW,Number of currently married men (unweighted)
+WE_WEMP_W_NM2,Number of currently married women
+WE_DMAK_W_NUM,Number of currently married women
+WE_JRSX_W_NUM,Number of currently married women
+WE_DMKV_W_NUM,Number of currently married women
+WE_WEMP_W_NM1,Number of currently married women
+WE_AWBT_W_NUM,Number of currently married women
+WE_DMKH_W_NUM,Number of currently married women
+WE_DMKP_W_NUM,Number of currently married women
+PR_DESC_W_NUM,Number of currently married women
+WE_WEMP_W_UN1,Number of currently married women (unweighted)
+WE_AWBT_W_UNW,Number of currently married women (unweighted)
+PR_DESC_W_UNW,Number of currently married women (unweighted)
+WE_WEMP_W_UN2,Number of currently married women (unweighted)
+WE_DMAK_W_UNW,Number of currently married women (unweighted)
+PR_DESL_W_UNW,Number of currently married women (unweighted)
+FP_DMKF_W_UNM,Number of currently married women using family planning
+FP_DMKF_W_UUN,Number of currently married women using family planning (unweighted)
+HC_OLDR_P_NUM,Number of de jure persons
+HC_OLDR_P_UNW,Number of de jure persons (unweighted)
+SV_RESI_M_ELG,Number of eligible men
+SV_RESI_M_INN,Number of eligible men interviewed
+SV_RESI_W_INN,Number of eligible women interviewed
+ED_EDAT_W_NUM,Number of female household members age 6 and over
+ED_EDAT_W_UNW,Number of female household members age 6 and over (unweighted)
+ED_EDAT_B_NUM,Number of household members age 6 and over
+ED_EDAT_B_UNW,Number of household members age 6 and over (unweighted)
+HC_PPRM_H_NUM,Number of households
+HC_RMSL_H_NUM,Number of households
+CN_IODZ_H_NM1,Number of households
+HC_OLDR_H_NUM,Number of households
+WS_TLET_H_NUM,Number of households
+HC_CHAR_H_NUM,Number of households
+WS_WTRT_H_NUM,Number of households
+HC_ORPH_H_NUM,Number of households
+HC_HEFF_H_NUM,Number of households
+HC_PPRM_H_UNW,Number of households (unweighted)
+HC_ORPH_H_UNW,Number of households (unweighted)
+HC_CHAR_H_UNW,Number of households (unweighted)
+HC_RMSL_H_UNW,Number of households (unweighted)
+WS_WTRT_H_UNW,Number of households (unweighted)
+WS_TLET_H_UNW,Number of households (unweighted)
+CN_IODZ_H_UN1,Number of households (unweighted)
+HC_HEFF_H_UNW,Number of households (unweighted)
+HC_OLDR_H_UNW,Number of households (unweighted)
+SV_HRES_H_OCC,Number of households found
+SV_HRES_H_INN,Number of households interviewed
+SV_HRSM_H_SEL,Number of households sampled for men's survey
+CN_IODZ_H_NM2,Number of households with salt tested
+CN_IODZ_H_UN2,Number of households with salt tested (unweighted)
+CN_BRFI_C_NUM,Number of last-born children born in the last two years
+CN_BRFI_C_UNW,Number of last-born children born in the last two years (unweighted)
+CN_BRFI_C_NME,Number of last-born children ever breastfed
+CN_BRFI_C_UNE,Number of last-born children ever breastfed (unweighted)
+RH_DELP_C_NUM,Number of live births (or stillbirths) in the last two (or three/five) years
+RH_DELA_C_NUM,Number of live births (or stillbirths) in the last two (or three/five) years
+RH_DELP_C_UNW,Number of live births (or stillbirths) in the last two (or three/five) years (unweighted)
+RH_DELA_C_UNW,Number of live births (or stillbirths) in the last two (or three/five) years (unweighted)
+CH_SZWT_C_NUM,Number of live births in the last five (or three) years
+CH_SZWT_C_UNW,Number of live births in the last five (or three) years (unweighted)
+CH_SZWT_C_NM1,Number of live births in the last five (or three) years with a numerical birth weight reported
+CH_SZWT_C_UN1,Number of live births in the last five (or three) years with a numerical birth weight reported (unweighted)
+ED_EDAT_M_NUM,Number of male household members age 6 and over
+ED_EDAT_M_UNW,Number of male household members age 6 and over (unweighted)
+EM_EMPM_M_NUM,Number of married men
+FP_EVUM_M_NUM,Number of married men
+MA_WIVE_M_NUM,Number of married men
+FP_KMET_M_NUM,Number of married men
+EM_EMPM_M_UNW,Number of married men (unweighted)
+FP_KMET_M_UNW,Number of married men (unweighted)
+FP_EVUM_M_UNW,Number of married men (unweighted)
+MA_WIVE_M_UNW,Number of married men (unweighted)
+FP_KMTM_M_NUM,Number of married men 15-49
+FP_KMTM_M_UNW,Number of married men 15-49 (unweighted)
+FP_KMTM_M_UN5,Number of married men 15-54(59) (unweighted)
+PR_IDLC_M_N5M,Number of married men age 15-54(59) with a numeric response for ideal number of children
+PR_IDLC_M_U5M,Number of married men age 15-54(59) with a numeric response for ideal number of children (unweighted)
+EM_ERNM_M_NM1,Number of married men employed in the last 12 months receiving cash earnings
+EM_ERNM_M_UN1,Number of married men employed in the last 12 months receiving cash earnings (unweighted)
+PR_IDLC_M_NMM,Number of married men with a numeric response for ideal number of children
+PR_IDLC_M_UNM,Number of married men with a numeric response for ideal number of children (unweighted)
+FP_NADM_W_NUM,Number of married women
+CM_HRFW_W_NUM,Number of married women
+EM_EMPM_W_NUM,Number of married women
+FP_KMET_W_NUM,Number of married women
+FP_KMTM_W_NUM,Number of married women
+FP_CUSM_W_NUM,Number of married women
+FE_CEBM_W_NUM,Number of married women
+FP_EVUM_W_NUM,Number of married women
+MA_CWIV_W_NUM,Number of married women
+CM_HRFW_W_UNW,Number of married women (unweighted)
+MA_CWIV_W_UNW,Number of married women (unweighted)
+FP_NADM_W_UNW,Number of married women (unweighted)
+FP_EVUM_W_UNW,Number of married women (unweighted)
+FE_CEBM_W_UNW,Number of married women (unweighted)
+FP_CUSM_W_UNW,Number of married women (unweighted)
+FP_KMTM_W_UNW,Number of married women (unweighted)
+FP_KMET_W_UNW,Number of married women (unweighted)
+EM_EMPM_W_UNW,Number of married women (unweighted)
+EM_ERNM_W_NM1,Number of married women employed in the last 12 months receiving cash earnings
+EM_WERN_W_NUM,Number of married women employed in the last 12 months receiving cash earnings
+EM_ERNM_W_UN1,Number of married women employed in the last 12 months receiving cash earnings (unweighted)
+EM_WERN_W_UNW,Number of married women employed in the last 12 months receiving cash earnings (unweighted)
+FP_NADM_W_TDN,Number of married women with a demand for family planning
+FP_NADM_W_TDU,Number of married women with a demand for family planning (unweighted)
+PR_IDLC_W_NMM,Number of married women with a numeric response for ideal number of children
+PR_IDLC_W_UNM,Number of married women with a numeric response for ideal number of children (unweighted)
+FP_NDYM_W_NUM,Number of married young women
+FP_NDYM_W_UNW,Number of married young women (unweighted)
+FP_NDYM_W_TDN,Number of married young women with a demand for family planning
+FP_NDYM_W_TDU,Number of married young women with a demand for family planning (unweighted)
+HA_ANSS_M_NUM,Number of men
+HA_KHVP_M_NUM,Number of men
+HA_CKNA_M_NUM,Number of men
+HA_ASEC_M_NUM,Number of men
+HA_KMTC_M_NUM,Number of men
+PR_IDLC_M_NUM,Number of men
+MA_MSTA_M_NUM,Number of men
+HA_PYSX_M_NUM,Number of men
+HA_PSXY_M_NM1,Number of men
+HA_MSXP_M_NM1,Number of men
+SX_SBAG_M_NUM,Number of men
+SX_LSEX_M_NUM,Number of men
+FP_EVUA_M_NUM,Number of men
+FP_EFPM_M_NUM,Number of men
+HA_MSXP_M_NM2,Number of men
+FG_KFCC_M_NUM,Number of men
+MA_MBAG_M_NUM,Number of men
+ED_LITR_M_NUM,Number of men
+ED_EDUC_M_NUM,Number of men
+ED_MDIA_M_NUM,Number of men
+HA_KAID_M_NUM,Number of men
+HA_CPHT_M_NUM,Number of men
+EM_EMPL_M_NUM,Number of men
+ED_EDUC_M_UNW,Number of men (unweighted)
+SX_LSEX_M_UNW,Number of men (unweighted)
+FP_EFPM_M_UNW,Number of men (unweighted)
+HA_CKNA_M_UNW,Number of men (unweighted)
+EM_EMPL_M_UNW,Number of men (unweighted)
+FP_EVUA_M_UNW,Number of men (unweighted)
+HA_ASEC_M_UNW,Number of men (unweighted)
+HA_MSXP_M_UN1,Number of men (unweighted)
+HA_CPHT_M_UNW,Number of men (unweighted)
+HA_PSXY_M_UN1,Number of men (unweighted)
+FG_KFCC_M_UNW,Number of men (unweighted)
+MA_MSTA_M_UNW,Number of men (unweighted)
+MA_MBAG_M_UNW,Number of men (unweighted)
+SX_SBAG_M_UNW,Number of men (unweighted)
+HA_MSXP_M_UN2,Number of men (unweighted)
+PR_IDLC_M_UNW,Number of men (unweighted)
+HA_KMTC_M_UNW,Number of men (unweighted)
+ED_MDIA_M_UNW,Number of men (unweighted)
+HA_KAID_M_UNW,Number of men (unweighted)
+HA_PYSX_M_UNW,Number of men (unweighted)
+HA_ANSS_M_UNW,Number of men (unweighted)
+HA_KHVP_M_UNW,Number of men (unweighted)
+ED_LITR_M_UNW,Number of men (unweighted)
+FP_KMTA_M_NUM,Number of men 15-49
+FP_KMTA_M_UNW,Number of men 15-49 (unweighted)
+FP_KMTA_M_UN5,Number of men 15-54(59) (unweighted)
+FE_TNBH_M_NUM,Number of men age 15-19
+FE_TNBH_M_UNW,Number of men age 15-19 (unweighted)
+PR_IDLC_M_N5A,Number of men age 15-54(59) with a numeric response for ideal number of children
+PR_IDLC_M_U5A,Number of men age 15-54(59) with a numeric response for ideal number of children (unweighted)
+EM_OCCP_M_NUM,Number of men employed in the last 12 months
+EM_OCCP_M_UNW,Number of men employed in the last 12 months (unweighted)
+SV_INTV_M_NUM,Number of men interviewed in one visit with complete interview start and stop time [Men]
+HA_HRSX_M_NM1,Number of men reporting sexual activity in the last 12 months
+HA_HRSX_M_UN1,Number of men reporting sexual activity in the last 12 months (unweighted)
+HA_STIS_M_NUM,Number of men who ever had sexual intercourse
+HA_STIS_M_UNW,Number of men who ever had sexual intercourse (unweighted)
+HA_HRSX_M_NM2,"Number of men who had sex with a non-marital, non-cohabiting partner in the last 12 months"
+HA_HRSX_M_UN2,"Number of men who had sex with a non-marital, non-cohabiting partner in the last 12 months (unweighted)"
+HA_AATT_M_NUM,Number of men who have heard of AIDS
+HA_AATT_M_UNW,Number of men who have heard of AIDS (unweighted)
+FG_OFCR_M_NUM,Number of men who have heard of female circumcision
+FG_OFCC_M_NUM,Number of men who have heard of female circumcision
+FG_OFCC_M_UNW,Number of men who have heard of female circumcision (unweighted)
+FG_OFCR_M_UNW,Number of men who have heard of female circumcision (unweighted)
+HA_PYSX_M_UN1,Number of men who paid for sex in the last 12 months (unweighted)
+PR_IDLC_M_NMA,Number of men with a numeric response for ideal number of children
+PR_IDLC_M_UNA,Number of men with a numeric response for ideal number of children (unweighted)
+CH_DSTL_C_NUM,Number of mothers whose youngest child under five years is living with her
+CH_DSTL_C_UNW,Number of mothers whose youngest child under five years is living with her (unweighted)
+RH_TTIJ_W_NUM,Number of mothers with a last live births in the last two (or three/five) years
+RH_TTIJ_W_UNW,Number of mothers with a last live births in the last two (or three/five) years (unweighted)
+HA_PSXY_M_NUM,Number of never-married men
+HA_PSXY_M_UNW,Number of never-married men (unweighted)
+HA_PSXY_W_NUM,Number of never-married young women
+HA_PSXY_W_UNW,Number of never-married young women (unweighted)
+HA_PSXY_W_NM1,Number of never-married young women who had sex in the past year
+HA_PSXY_W_UN1,Number of never-married young women who had sex in the past year (unweighted)
+FE_BINT_C_NUM,Number of non-first births
+FE_BINT_C_UNW,Number of non-first births (unweighted)
+FP_NFPP_W_NUM,Number of nonusers of FP
+FP_NFPP_W_UNW,Number of nonusers of FP (unweighted)
+HC_CHAR_P_NUM,Number of persons
+HC_RMSL_P_NUM,Number of persons
+WS_TLET_P_NUM,Number of persons
+WS_WTRT_P_NUM,Number of persons
+HC_WIXQ_P_NUM,Number of persons
+HC_RMSL_P_UNW,Number of persons (unweighted)
+WS_TLET_P_UNW,Number of persons (unweighted)
+HC_CHAR_P_UNW,Number of persons (unweighted)
+WS_WTRT_P_UNW,Number of persons (unweighted)
+HC_WIXQ_P_UNW,Number of persons (unweighted)
+MM_MMRT_W_PDT,Number of pregnancy-related deaths
+FP_EVUU_M_NUM,Number of sexually active unmarried men
+FP_EVUU_M_UNW,Number of sexually active unmarried men (unweighted)
+FP_KMTU_M_NUM,Number of sexually active unmarried men 15-49
+FP_KMTU_M_UNW,Number of sexually active unmarried men 15-49 (unweighted)
+FP_KMTU_M_UN5,Number of sexually active unmarried men 15-54(59) (unweighted)
+FP_NDYU_W_NUM,Number of sexually active unmarried women
+FP_EVUU_W_NUM,Number of sexually active unmarried women
+FP_NADU_W_NUM,Number of sexually active unmarried women
+FP_CUSU_W_NUM,Number of sexually active unmarried women
+FP_KMTU_W_NUM,Number of sexually active unmarried women
+FP_NADU_W_UNW,Number of sexually active unmarried women (unweighted)
+FP_EVUU_W_UNW,Number of sexually active unmarried women (unweighted)
+FP_NDYU_W_UNW,Number of sexually active unmarried women (unweighted)
+FP_KMTU_W_UNW,Number of sexually active unmarried women (unweighted)
+FP_CUSU_W_UNW,Number of sexually active unmarried women (unweighted)
+FP_NADU_W_TDN,Number of sexually active unmarried women with a demand for family planning
+FP_NADU_W_TDU,Number of sexually active unmarried women with a demand for family planning (unweighted)
+FP_NDYU_W_TDN,Number of sexually active unmarried young women with a demand for family planning
+FP_NDYU_W_TDU,Number of sexually active unmarried young women with a demand for family planning (unweighted)
+HA_MSPY_M_NM2,Number of sexually active young men
+HA_MSPY_M_UN2,Number of sexually active young men (unweighted)
+HA_MSPY_W_NM2,Number of sexually active young women
+HA_MSPY_W_UN2,Number of sexually active young women (unweighted)
+FP_ICHC_W_NUM,Number of users of selected modern methods of contraception
+FP_ICHC_W_UNW,Number of users of selected modern methods of contraception (unweighted)
+MA_WIVE_M_DKM,Number of wives [Men]: don't know or missing
+MA_WIVE_M_1WV,Number of wives: One wife
+MA_WIVE_M_TOT,Number of wives: Total
+MA_WIVE_M_2PW,Number of wives: Two or more wives
+AH_TOBC_W_NUM,Number of women
+FP_NADA_W_NUM,Number of women
+FP_KFTP_W_NUM,Number of women
+FE_BBAG_W_NUM,Number of women
+FG_PPCW_W_NUM,Number of women
+FP_CUSA_W_NUM,Number of women
+FG_PFCC_W_NUM,Number of women
+FP_EVUA_W_NUM,Number of women
+FE_CEBA_W_NUM,Number of women
+HA_CKNA_W_NUM,Number of women
+FP_KFPC_W_NUM,Number of women
+AN_ANEM_W_NUM,Number of women
+HA_KHVP_W_NUM,Number of women
+FG_KFCC_W_NUM,Number of women
+PR_MIDL_W_NUM,Number of women
+PR_IDLC_W_NUM,Number of women
+SX_SBAG_W_NUM,Number of women
+SX_LSEX_W_NUM,Number of women
+HA_ANSS_W_NUM,Number of women
+AN_NUTS_W_NM1,Number of women
+HA_MSXP_W_NM1,Number of women
+HA_ASEC_W_NUM,Number of women
+ED_EDUC_W_NUM,Number of women
+ED_MDIA_W_NUM,Number of women
+RH_PAHC_W_NUM,Number of women
+MA_ADIF_W_NUM,Number of women
+EM_EMPL_W_NUM,Number of women
+HA_CPHT_W_NUM,Number of women
+FP_EFPM_W_NUM,Number of women
+HA_KMTC_W_NUM,Number of women
+HA_MSXP_W_NM2,Number of women
+ED_LITR_W_NUM,Number of women
+MA_MBAG_W_NUM,Number of women
+AN_NUTS_W_NUM,Number of women
+MA_MSTA_W_NUM,Number of women
+HA_KAID_W_NUM,Number of women
+FP_KMTA_W_NUM,Number of women
+FG_KFCC_W_UNW,Number of women (unweighted)
+HA_MSXP_W_UN1,Number of women (unweighted)
+MA_MSTA_W_UNW,Number of women (unweighted)
+AN_ANEM_W_UNW,Number of women (unweighted)
+FP_KFPC_W_UNW,Number of women (unweighted)
+FP_KFTP_W_UNW,Number of women (unweighted)
+HA_ANSS_W_UNW,Number of women (unweighted)
+ED_EDUC_W_UNW,Number of women (unweighted)
+HA_KHVP_W_UNW,Number of women (unweighted)
+EM_EMPL_W_UNW,Number of women (unweighted)
+HA_CKNA_W_UNW,Number of women (unweighted)
+FE_CEBA_W_UNW,Number of women (unweighted)
+HA_ASEC_W_UNW,Number of women (unweighted)
+RH_PAHC_W_UNW,Number of women (unweighted)
+AH_TOBC_W_UNW,Number of women (unweighted)
+FE_BBAG_W_UNW,Number of women (unweighted)
+HA_MSXP_W_UN2,Number of women (unweighted)
+AN_NUTS_W_UN1,Number of women (unweighted)
+MA_MBAG_W_UNW,Number of women (unweighted)
+HA_KAID_W_UNW,Number of women (unweighted)
+PR_MIDL_W_UNW,Number of women (unweighted)
+FP_NADA_W_UNW,Number of women (unweighted)
+ED_MDIA_W_UNW,Number of women (unweighted)
+FP_EVUA_W_UNW,Number of women (unweighted)
+PR_IDLC_W_UNW,Number of women (unweighted)
+SX_LSEX_W_UNW,Number of women (unweighted)
+FG_PPCW_W_UNW,Number of women (unweighted)
+HA_KMTC_W_UNW,Number of women (unweighted)
+FP_KMTA_W_UNW,Number of women (unweighted)
+AN_NUTS_W_UNW,Number of women (unweighted)
+SX_SBAG_W_UNW,Number of women (unweighted)
+FP_CUSA_W_UNW,Number of women (unweighted)
+HA_CPHT_W_UNW,Number of women (unweighted)
+FG_PFCC_W_UNW,Number of women (unweighted)
+MA_ADIF_W_UNW,Number of women (unweighted)
+FP_EFPM_W_UNW,Number of women (unweighted)
+ED_LITR_W_UNW,Number of women (unweighted)
+FE_TNBH_W_NUM,Number of women age 15-19
+FE_TNPG_W_NUM,Number of women age 15-19
+FE_TNPG_W_UNW,Number of women age 15-19 (unweighted)
+FE_TNBH_W_UNW,Number of women age 15-19 (unweighted)
+FE_FRTY_W_NPG,Number of women age 15-49
+FE_FRTY_W_UPG,Number of women age 15-49 (unweighted)
+FE_MENO_W_NUM,Number of women age 30-49
+FE_MENO_W_UNW,Number of women age 30-49 (unweighted)
+FE_FRTY_W_N49,Number of women age 40-49
+FE_FRTY_W_U49,Number of women age 40-49 (unweighted)
+AH_CIGA_W_UNW,Number of women cigarette smokers (unweighted)
+EM_EMPT_W_NUM,Number of women employed during the past 12 months
+EM_OCCP_W_NUM,Number of women employed in the last 12 months
+EM_OCCP_W_UNW,Number of women employed in the last 12 months (unweighted)
+EM_EMPT_W_UNW,Number of women employed in the last 12 months (unweighted)
+SV_INTV_W_NUM,Number of women interviewed in one visit with complete interview start and stop time
+HA_HRSX_W_NM1,Number of women reporting sexual activity in the last 12 months
+HA_HRSX_W_UN1,Number of women reporting sexual activity in the last 12 months (unweighted)
+FP_SOCM_W_NPL,Number of women using pills
+FP_SOCM_W_UPL,Number of women using pills (unweighted)
+HA_STIS_W_NUM,Number of women who ever had sexual intercourse
+HA_STIS_W_UNW,Number of women who ever had sexual intercourse (unweighted)
+HA_HRSX_W_NM2,"Number of women who had sex with a non-marital, non-cohabiting partner in the last 12 months"
+HA_HRSX_W_UN2,"Number of women who had sex with a non-marital, non-cohabiting partner in the last 12 months (unweighted)"
+HA_AATT_W_NUM,Number of women who have heard of AIDS
+HA_AATT_W_UNW,Number of women who have heard of AIDS (unweighted)
+FG_OFCR_W_NUM,Number of women who have heard of female circumcision
+FG_OFCC_W_NUM,Number of women who have heard of female circumcision
+FG_OFCC_W_UNW,Number of women who have heard of female circumcision (unweighted)
+FG_OFCR_W_UNW,Number of women who have heard of female circumcision (unweighted)
+RH_ANCN_W_TOT,Number of women with a birth in the last two (or three/five) years
+RH_ANCT_W_NUM,Number of women with a birth in the last two (or three/five) years
+RH_ANCT_W_UNW,Number of women with a birth in the last two (or three/five) years (unweighted)
+RH_ANCT_W_NMA,Number of women with a birth in the last two (or three/five) years receiving antenatal care (ANC)
+FP_NADA_W_TDN,Number of women with a demand for family planning
+FP_NADA_W_TDU,Number of women with a demand for family planning (unweighted)
+RH_ANCP_W_NUM,Number of women with a live birth (or stillbirth) in the last two (or three/five) years
+RH_ANCP_W_UNW,Number of women with a live birth (or stillbirth) in the last two (or three/five) years (unweighted)
+RH_ANCS_W_NUM,Number of women with a live birth (or stillbirth) in the last two (or three/five) years who received antenatal care
+RH_ANCC_W_NUM,Number of women with a live birth (or stillbirth) in the last two (or three/five) years who received antenatal care
+RH_ANCC_W_UNW,Number of women with a live birth (or stillbirth) in the last two (or three/five) years who received antenatal care (unweighted)
+RH_ANCS_W_UNW,Number of women with a live birth (or stillbirth) in the last two (or three/five) years who received antenatal care (unweighted)
+CH_KORS_W_NUM,Number of women with a live birth in the last five years
+CH_KORS_W_UNW,Number of women with a live birth in the last five years (unweighted)
+PR_IDLC_W_NMA,Number of women with a numeric response for ideal number of children
+PR_IDLC_W_UNA,Number of women with a numeric response for ideal number of children (unweighted)
+HA_AFSY_M_NM1,Number of young men
+HA_MSPY_M_NM1,Number of young men
+HA_MSPY_M_NUM,Number of young men
+ED_LITY_M_NUM,Number of young men
+MA_MSTY_M_NUM,Number of young men
+HA_CKNY_M_NUM,Number of young men
+HA_CKNY_M_UNW,Number of young men (unweighted)
+ED_LITY_M_UNW,Number of young men (unweighted)
+HA_MSPY_M_UN1,Number of young men (unweighted)
+HA_AFSY_M_UN1,Number of young men (unweighted)
+MA_MSTY_M_UNW,Number of young men (unweighted)
+HA_MSPY_M_UNW,Number of young men (unweighted)
+SX_SACY_M_NUM,Number of young men age 15-19
+SX_SACY_M_UNW,Number of young men age 15-19 (unweighted)
+HA_AFSY_M_NM2,Number of young men age 18-24
+HA_AFSY_M_UN2,Number of young men age 18-24 (unweighted)
+SX_SBAY_M_NUM,Number of young men age 20-24
+MA_MBAY_M_NUM,Number of young men age 20-24
+SX_SBAY_M_UNW,Number of young men age 20-24 (unweighted)
+MA_MBAY_M_UNW,Number of young men age 20-24 (unweighted)
+HA_CKNY_W_NUM,Number of young women
+FP_NDYA_W_NUM,Number of young women
+HA_AFSY_W_NM1,Number of young women
+ED_LITY_W_NUM,Number of young women
+HA_MSPY_W_NM3,Number of young women
+FP_CUSY_W_NUM,Number of young women
+MA_MSTY_W_NUM,Number of young women
+HA_MSPY_W_NM1,Number of young women
+FP_CUSY_W_UNW,Number of young women (unweighted)
+HA_CKNY_W_UNW,Number of young women (unweighted)
+HA_MSPY_W_UN3,Number of young women (unweighted)
+MA_MSTY_W_UNW,Number of young women (unweighted)
+ED_LITY_W_UNW,Number of young women (unweighted)
+HA_MSPY_W_UN1,Number of young women (unweighted)
+HA_AFSY_W_UN1,Number of young women (unweighted)
+FP_NDYA_W_UNW,Number of young women (unweighted)
+SX_SACY_W_NUM,Number of young women age 15-19
+SX_SACY_W_UNW,Number of young women age 15-19 (unweighted)
+HA_AFSY_W_NM2,Number of young women age 18-24
+HA_AFSY_W_UN2,Number of young women age 18-24 (unweighted)
+MA_MBAY_W_NUM,Number of young women age 20-24
+FE_BBAY_W_NUM,Number of young women age 20-24
+SX_SBAY_W_NUM,Number of young women age 20-24
+FE_BBAY_W_UNW,Number of young women age 20-24 (unweighted)
+MA_MBAY_W_UNW,Number of young women age 20-24 (unweighted)
+SX_SBAY_W_UNW,Number of young women age 20-24 (unweighted)
+FP_NDYA_W_TDN,Number of young women with a demand for family planning
+FP_NDYA_W_TDU,Number of young women with a demand for family planning (unweighted)
+CN_BRFS_C_NUM,Number of youngest children under two years living with the mother
+CN_BRFS_C_UNW,Number of youngest children under two years living with the mother (unweighted)
+CH_ARSA_C_GHC,"Of children with symptoms of ARI for whom advice or treatment was sought, children receiving from a government health center"
+CH_ARSA_C_GHS,"Of children with symptoms of ARI for whom advice or treatment was sought, children receiving from a government hospital"
+CH_ARSA_C_MKT,"Of children with symptoms of ARI for whom advice or treatment was sought, children receiving from a market"
+CH_ARSA_C_OSR,"Of children with symptoms of ARI for whom advice or treatment was sought, children receiving from a non-medical source"
+CH_ARSA_C_PDR,"Of children with symptoms of ARI for whom advice or treatment was sought, children receiving from a private doctor"
+CH_ARSA_C_PFW,"Of children with symptoms of ARI for whom advice or treatment was sought, children receiving from a private fieldworker"
+CH_ARSA_C_PHS,"Of children with symptoms of ARI for whom advice or treatment was sought, children receiving from a private hospital/clinic"
+CH_ARSA_C_PRV,"Of children with symptoms of ARI for whom advice or treatment was sought, children receiving from a private medical sector facility"
+CH_ARSA_C_PPH,"Of children with symptoms of ARI for whom advice or treatment was sought, children receiving from a private pharmacy"
+CH_ARSA_C_GFW,"Of children with symptoms of ARI for whom advice or treatment was sought, children receiving from a public fieldworker"
+CH_ARSA_C_PUB,"Of children with symptoms of ARI for whom advice or treatment was sought, children receiving from a public sector facility"
+CH_ARSA_C_SHP,"Of children with symptoms of ARI for whom advice or treatment was sought, children receiving from a shop"
+CH_ARSA_C_TRP,"Of children with symptoms of ARI for whom advice or treatment was sought, children receiving from a traditional practitioner"
+CH_ARSA_C_POT,"Of children with symptoms of ARI for whom advice or treatment was sought, children receiving from another private sector facility"
+CH_ARSA_C_GOT,"Of children with symptoms of ARI for whom advice or treatment was sought, children receiving from another public sector facility"
+CH_ARSA_C_OTH,"Of children with symptoms of ARI for whom advice or treatment was sought, children receiving from any other source"
+CH_ARSS_C_GHC,"Of children with symptoms of ARI, advice or treatment sought from a government health center"
+CH_ARSS_C_GHS,"Of children with symptoms of ARI, advice or treatment sought from a government hospital"
+CH_ARSS_C_MKT,"Of children with symptoms of ARI, advice or treatment sought from a market"
+CH_ARSS_C_OSR,"Of children with symptoms of ARI, advice or treatment sought from a non-medical source"
+CH_ARSS_C_PDR,"Of children with symptoms of ARI, advice or treatment sought from a private doctor"
+CH_ARSS_C_PFW,"Of children with symptoms of ARI, advice or treatment sought from a private fieldworker"
+CH_ARSS_C_PHS,"Of children with symptoms of ARI, advice or treatment sought from a private hospital/clinic"
+CH_ARSS_C_PRV,"Of children with symptoms of ARI, advice or treatment sought from a private medical sector facility"
+CH_ARSS_C_PPH,"Of children with symptoms of ARI, advice or treatment sought from a private pharmacy"
+CH_ARSS_C_GFW,"Of children with symptoms of ARI, advice or treatment sought from a public fieldworker"
+CH_ARSS_C_PUB,"Of children with symptoms of ARI, advice or treatment sought from a public sector facility"
+CH_ARSS_C_SHP,"Of children with symptoms of ARI, advice or treatment sought from a shop"
+CH_ARSS_C_TRP,"Of children with symptoms of ARI, advice or treatment sought from a traditional practitioner"
+CH_ARSS_C_POT,"Of children with symptoms of ARI, advice or treatment sought from another private sector facility"
+CH_ARSS_C_GOT,"Of children with symptoms of ARI, advice or treatment sought from another public sector facility"
+CH_ARSS_C_OTH,"Of children with symptoms of ARI, advice or treatment sought from any other source"
+HA_PYSX_M_PD1,Paid for sexual intercourse in the past 12 months
+PR_PLST_W_NOM,Percentage of births not wanted at all
+PR_PLST_W_MIS,Percentage of births unsure about wantedness/with missing information on wantedness of birth
+PR_PLST_W_LAT,Percentage of births wanted later
+PR_PLST_W_THN,Percentage of births wanted then
+PR_PLST_W_TOT,Percentage of births: Total
+SV_BACK_M_PCM,Percentage of men
+HC_AGEG_P_004,Percentage of population age 0-4
+HC_AGEG_P_104,Percentage of population age 10-14
+HC_AGEG_P_159,Percentage of population age 15-19
+HC_AGEG_P_204,Percentage of population age 20-24
+HC_AGEG_P_259,Percentage of population age 25-29
+HC_AGEG_P_304,Percentage of population age 30-34
+HC_AGEG_P_359,Percentage of population age 35-39
+HC_AGEG_P_404,Percentage of population age 40-44
+HC_AGEG_P_459,Percentage of population age 45-49
+HC_AGEG_P_059,Percentage of population age 5-9
+HC_AGEG_P_504,Percentage of population age 50-54
+HC_AGEG_P_559,Percentage of population age 55-59
+HC_AGEG_P_604,Percentage of population age 60-64
+HC_AGEG_P_659,Percentage of population age 65-69
+HC_AGEG_P_704,Percentage of population age 70-74
+HC_AGEG_P_759,Percentage of population age 75-79
+HC_AGEG_P_80P,Percentage of population age 80 +
+HC_AGEG_P_DK1,Percentage of population with age DK/missing
+HC_AGEG_P_DK2,Percentage of population with age DK/missing
+HC_AGEG_P_DKM,Percentage of population with age don't know or missing
+HC_AGEG_P_TOT,Percentage of population: Total
+SV_BACK_W_PCW,Percentage of women
+FE_FRTY_W_PRG,Percentage of women currently pregnant
+HC_YTHC_M_PCT,Percentage of young men
+HC_YTHC_B_PCT,Percentage of young people
+HC_YTHC_W_PCT,Percentage of young women
+CH_VAC1_C_VCD,Percentage showing a vaccination card
+RH_DELP_C_HOM,Place of delivery: At home
+RH_DELP_C_DHF,Place of delivery: Health facility
+RH_DELP_C_OTH,Place of delivery: Other
+RH_DELP_C_PRV,Place of delivery: Private sector
+RH_DELP_C_PUB,Place of delivery: Public sector
+RH_DELP_C_TOT,Place of delivery: Total
+RH_DELP_C_DKM,Place of delivery: don't know or missing
+CH_VACC_C_OP0,Polio 0 vaccination received
+CH_VACS_C_OP0,Polio 0 vaccination received
+CH_VAC1_C_OP0,Polio 0 vaccination received in first year
+CH_VACS_C_OP1,Polio 1 vaccination received
+CH_VACC_C_OP1,Polio 1 vaccination received
+CH_VAC1_C_OP1,Polio 1 vaccination received in first year
+CH_VACS_C_OP2,Polio 2 vaccination received
+CH_VACC_C_OP2,Polio 2 vaccination received
+CH_VAC1_C_OP2,Polio 2 vaccination received in first year
+CH_VACS_C_OP3,Polio 3 vaccination received
+CH_VACC_C_OP3,Polio 3 vaccination received
+CH_VAC1_C_OP3,Polio 3 vaccination received in first year
+ED_EDAT_B_HGH,Population age 6 and over who attended higher education
+ED_EDAT_B_PRI,Population age 6 and over who attended primary education
+ED_EDAT_B_SEC,Population age 6 and over who attended secondary education
+ED_EDAT_B_CPR,Population age 6 and over with completed primary education
+ED_EDAT_B_CSC,Population age 6 and over with completed secondary education
+ED_EDAT_B_DKM,Population age 6 and over with don't know or missing information on level of education
+ED_EDAT_B_NED,Population age 6 and over with no education
+ED_EDAT_B_SPR,Population age 6 and over with some primary education
+ED_EDAT_B_SSC,Population age 6 and over with some secondary education
+ED_EDAT_B_TOT,Population age 6 and over: Total
+HC_CKFL_P_LPG,Population cooking with LPG/natural gas/biogas
+HC_CKFL_P_CHR,Population cooking with charcoal
+HC_CKFL_P_ELC,Population cooking with electricity
+HC_CKFL_P_GAS,Population cooking with gasoline
+HC_CKFL_P_KER,Population cooking with kerosene
+HC_CKFL_P_OTH,Population cooking with other types of fuel
+HC_CKFL_P_WOD,Population cooking with wood
+HC_WIXQ_P_4TH,Population in the fourth wealth quintile
+HC_WIXQ_P_HGH,Population in the highest wealth quintile
+HC_WIXQ_P_LOW,Population in the lowest wealth quintile
+HC_WIXQ_P_MID,Population in the middle wealth quintile
+HC_WIXQ_P_2ND,Population in the second wealth quintile
+HC_OLDR_P_NNC,Population living in non-nuclear families
+HC_WIXQ_P_TOT,Population total
+HC_RMSL_P_TOT,Population total
+WS_TLET_P_TOT,Population total
+WS_SRCE_P_PSG,Population using a protected spring
+WS_SRCE_P_PWL,Population using a protected well
+WS_SRCE_P_TAP,Population using a public tap/standpipe
+WS_SRCE_P_USU,Population using a spring (protection unspecified)
+WS_SRCE_P_TUB,Population using a tubewell/borehole
+WS_SRCE_P_IMP,Population using an improved water source
+WS_SRCE_P_NIM,Population using an unimproved water source
+WS_SRCE_P_UWL,Population using an unprotected well water
+WS_SRCE_P_BOT,Population using bottled water/demi john
+HC_CKFL_P_CLN,Population using clean fuel for cooking 
+WS_TLET_P_NFC,Population using open defecation
+WS_TLET_P_OTH,Population using other types of toilet facility
+WS_SRCE_P_OTH,Population using other water source
+WS_SRCE_P_RNW,Population using rainwater
+HC_CKFL_P_SLD,Population using solid fuel for cooking 
+WS_SRCE_P_SRF,Population using surface water
+WS_SRCE_P_TNK,Population using tanker truck
+WS_SRCE_P_PIP,Population using water piped into dwelling
+WS_SRCE_P_PYD,Population using water piped into yard/plot
+WS_TLET_P_FUN,Population with a flush or pour flush toilet to an unknown location
+WS_TLET_P_PSL,Population with a pit latrine with a slab
+WS_TLET_P_NPT,Population with a pit latrine without a slab or an open pit
+WS_TLET_P_VIP,Population with a ventilated improved pit latrine (VIP)
+WS_TLET_P_IMP,Population with an improved sanitation facility
+WS_TLET_P_NIM,Population with an unimproved sanitation facility
+WS_TLET_P_BAS,Population with basic sanitation service
+WS_SRCE_P_BAS,Population with basic water service
+HC_FLRM_P_CER,Population with ceramic tile floors
+HC_ELEC_P_DKM,Population with don't know or missing information on electricity
+HC_RMSL_P_DKM,Population with don't know or missing information on rooms for sleeping
+WS_TLET_P_DKM,Population with don't know or missing information on toilet facility
+HC_CKFL_P_DKM,Population with don't know or missing information on type of cooking fuel
+HC_FLRM_P_DKM,Population with don't know or missing information on type of flooring
+WS_SRCE_P_DKM,Population with don't know or missing information on water source
+HC_FLRM_P_DNG,Population with dung floors
+HC_FLRM_P_ETH,Population with earth/sand floors
+HC_ELEC_P_ELC,Population with electricity
+HC_FLRM_P_FIN,Population with finished floors
+WS_SRCE_P_IOP,Population with improved water source on the premises
+WS_TLET_P_LTD,Population with limited sanitation service
+WS_SRCE_P_LTD,Population with limited water service
+HC_FLRM_P_NAT,Population with natural floors
+HC_ELEC_P_NEL,Population with no electricity
+HC_RMSL_P_1RM,Population with one room for sleeping
+HC_FLRM_P_OTH,Population with other floors
+HC_FLRM_P_PLM,Population with palm/bamboo floors
+HC_FLRM_P_PQT,Population with parquet or polished wood floors
+HC_FLRM_P_RUD,Population with rudimentary floors
+HC_RMSL_P_3RM,Population with three or more rooms for sleeping
+HC_RMSL_P_2RM,Population with two rooms for sleeping
+WS_TIME_P_DKM,Population with unknown or missing information on round trip time to water
+HC_FLRM_P_VIN,Population with vinyl or asphalt strips floors
+WS_TIME_P_L30,Population with water 30 minutes or less away round trip
+WS_TIME_P_M30,Population with water more than 30 minutes away round trip
+WS_TIME_P_ONP,Population with water on the premises
+HC_FLRM_P_WDP,Population with wood plank floors
+WS_TIME_P_TOT,Population: Total
+WS_SRCE_P_TOT,Population: Total
+CM_ECMT_C_PNR,Postneonatal mortality (5 year periods)
+CM_ECMT_C_PNL,Postneonatal mortality (5 year periods) - CI lower bound (-2SE)
+CM_ECMT_C_PNU,Postneonatal mortality (5 year periods) - CI upper bound (+2SE)
+CM_ECMT_C_PNX,Postneonatal mortality (5 year periods) - relative error
+CM_ECMT_C_PNE,Postneonatal mortality (5 year periods) - standard error
+CM_ECMR_C_PNL,Postneonatal mortality - CI lower bound (-2SE)
+CM_ECMR_C_PNU,Postneonatal mortality - CI upper bound (+2SE)
+CM_ECMR_C_PNX,Postneonatal mortality - relative error
+CM_ECMR_C_PNE,Postneonatal mortality - standard error
+CM_ECMR_C_PNR,Postneonatal mortality rate
+FE_PPIS_W_ABS,Postpartum abstaining
+FE_PPIS_W_AMN,Postpartum amenorrheic
+FE_PPIS_W_INS,Postpartum insusceptible
+CN_IYCB_C_PBF,Predominant breastfeeding 0-5 months
+MM_MMRT_W_PRT,Pregnancy-related mortality rate
+MM_MMRO_W_PMR,Pregnancy-related mortality ratio
+MM_MMRO_W_PIL,Pregnancy-related mortality ratio CI lower bound (PRMR-2SE)
+MM_MMRO_W_PIH,Pregnancy-related mortality ratio CI upper bound (PRMR+2SE)
+HC_LVAY_C_P1D,"Prevalence of orphanhood: children age 10-14 who are orphans - mother, father or both dead"
+FE_BINT_C_I18,Previous birth interval: 18-23 months
+FE_BINT_C_I24,Previous birth interval: 24-35 months
+FE_BINT_C_I36,Previous birth interval: 36-47 months
+FE_BINT_C_I48,Previous birth interval: 48-59 months
+FE_BINT_C_I60,Previous birth interval: 60+ months
+FE_BINT_C_I07,Previous birth interval: 7-17 months
+FE_BINT_C_I3Y,Previous birth interval: <36 months
+FE_BINT_C_TOT,Previous birth interval: Total
+MM_AMPB_M_AMP,Probability of dying between exact age 15 and 50 (35q15) for men
+MM_AMPB_W_AMP,Probability of dying between exact age 15 and 50 (35q15) for women
+RH_PAHC_W_PR1,Problems in accessing health care: Any of the specified problems
+RH_PAHC_W_FEM,Problems in accessing health care: Concern there may not be a female provider
+RH_PAHC_W_DIS,Problems in accessing health care: Distance to health facility
+RH_PAHC_W_MON,Problems in accessing health care: Getting money for treatment
+RH_PAHC_W_PRM,Problems in accessing health care: Getting permission to go for treatment
+RH_PAHC_W_TRN,Problems in accessing health care: Having to take transport
+RH_PAHC_W_KNW,Problems in accessing health care: Knowing where to go for treatment
+RH_PAHC_W_ALN,Problems in accessing health care: Not wanting to go alone
+ED_SCHA_C_SCR,"Ratio of orphans to non-orphans who are in school - mother, father or both dead"
+FP_RNIU_W_CST,Reason for not intending to use contraception: Cost too much
+FP_RNIU_W_UNK,Reason for not intending to use contraception: DK
+FP_RNIU_W_SID,Reason for not intending to use contraception: Fear of side effects
+FP_RNIU_W_HCN,Reason for not intending to use contraception: Health concerns
+FP_RNIU_W_INC,Reason for not intending to use contraception: Inconvenient to use
+FP_RNIU_W_INS,Reason for not intending to use contraception: Infrequent sex
+FP_RNIU_W_BOD,Reason for not intending to use contraception: Interfere with body
+FP_RNIU_W_KNM,Reason for not intending to use contraception: Knows no method
+FP_RNIU_W_KNS,Reason for not intending to use contraception: Knows no source
+FP_RNIU_W_ACC,Reason for not intending to use contraception: Lack of access
+FP_RNIU_W_MEN,"Reason for not intending to use contraception: Menopausal, hysterectomized"
+FP_RNIU_W_MIS,Reason for not intending to use contraception: Missing
+FP_RNIU_W_OTH,Reason for not intending to use contraception: Other
+FP_RNIU_W_OOP,Reason for not intending to use contraception: Others opposed
+FP_RNIU_W_REL,Reason for not intending to use contraception: Religious prohibition
+FP_RNIU_W_ROP,Reason for not intending to use contraception: Respondent opposed
+FP_RNIU_W_SOP,Reason for not intending to use contraception: Spouse opposed
+FP_RNIU_W_SBF,"Reason for not intending to use contraception: Subfecund, infecund"
+FP_RNIU_W_TOT,Reason for not intending to use contraception: Total
+FP_RNIU_W_WMC,Reason for not intending to use contraception: Wants more children
+CH_VACC_C_AP2,Received all age appropriate vaccinations [24-35]
+CH_VACC_C_NON,Received no vaccinations
+CH_VACS_C_NON,Received no vaccinations
+CH_VAC1_C_NON,Received no vaccinations in first year
+SX_LSEX_M_4WK,Recent sexual activity [Men]: Active 4 Weeks
+SX_LSEX_M_MIS,Recent sexual activity [Men]: Missing
+SX_LSEX_M_NSX,Recent sexual activity [Men]: Never had sex
+SX_LSEX_M_1PY,Recent sexual activity [Men]: One or more years ago
+SX_LSEX_M_1YR,Recent sexual activity [Men]: Within the last year
+SX_LSEX_W_MIS,Recent sexual activity [Women]: Missing
+SX_LSEX_W_1PY,Recent sexual activity [Women]: One or more years ago
+SX_LSEX_W_1YR,Recent sexual activity [Women]: Within the last year
+SX_LSEX_W_4WK,Recent sexual activity: Active in last 4 weeks
+SX_LSEX_W_NSX,Recent sexual activity: Never had sex
+SV_RESI_M_INT,Sample implementation: Eligible men completed
+SV_RESI_M_INC,Sample implementation: Eligible men incapacitated
+SV_RESI_M_NAH,Sample implementation: Eligible men not at home
+SV_RESI_M_OTH,Sample implementation: Eligible men other
+SV_RESI_M_PRT,Sample implementation: Eligible men partly completed
+SV_RESI_M_POS,Sample implementation: Eligible men postponed
+SV_RESI_M_REF,Sample implementation: Eligible men refused
+SV_RESI_M_TOT,Sample implementation: Eligible men total percent
+SV_RESI_W_INT,Sample implementation: Eligible women completed
+SV_RESI_W_INC,Sample implementation: Eligible women incapacitated
+SV_RESI_W_NAH,Sample implementation: Eligible women not at home
+SV_RESI_W_ELG,Sample implementation: Eligible women number
+SV_RESI_W_OTH,Sample implementation: Eligible women other
+SV_RESI_W_PRT,Sample implementation: Eligible women partly completed
+SV_RESI_W_POS,Sample implementation: Eligible women postponed
+SV_RESI_W_REF,Sample implementation: Eligible women refused
+SV_RESI_W_RES,Sample implementation: Eligible women response rate
+SV_RESI_W_TOT,Sample implementation: Eligible women total percent
+SV_HRES_H_ABS,Sample implementation: Households absent
+SV_HRES_H_INT,Sample implementation: Households completed
+SV_HRES_H_DES,Sample implementation: Households dwelling destroyed
+SV_HRES_H_DNF,Sample implementation: Households dwelling not found
+SV_HRES_H_VAC,Sample implementation: Households dwelling vacant
+SV_HRES_H_NOR,Sample implementation: Households no competent respondent
+SV_HRES_H_SEL,Sample implementation: Households number
+SV_HRES_H_OTH,Sample implementation: Households other
+SV_HRES_H_POS,Sample implementation: Households postponed
+SV_HRES_H_REF,Sample implementation: Households refused
+SV_HRES_H_RES,Sample implementation: Households response rate
+SV_HRES_H_TOT,Sample implementation: Households total percent
+SV_RESI_M_ORR,Sample implementation: Overall response rate for men
+SV_RESI_W_ORR,Sample implementation: Overall response rate for women
+HA_AFSY_M_A15,Sex before the age of 15 [Men]
+HA_AFSY_W_A15,Sex before the age of 15 [Women]
+HA_AFSY_M_A18,Sex before the age of 18 [Men]
+HA_AFSY_W_A18,Sex before the age of 18 [Women]
+HC_HHHD_H_DKM,Sex of head of household unknown/missing
+FP_CUSU_W_NCU,Sexually active unmarried women not currently using any method
+FP_CUSU_W_TOT,Sexually active unmarried women: total
+HA_MSPY_M_2PS,Sexually active young men having multiple partners in last year
+HA_MSPY_W_2PS,Sexually active young women having multiple partners in last year
+CH_SZWT_C_AVG,Size of child at birth: Average or larger
+CH_SZWT_C_SML,Size of child at birth: Smaller than average
+CH_SZWT_C_TOT,Size of child at birth: Total
+CH_SZWT_C_VSM,Size of child at birth: Very small
+CH_SZWT_C_DKM,Size of child at birth: don't know or missing
+FP_ASTR_W_UNW,Sterilized women (unweighted)
+FE_TNBH_M_BTH,Teenage men who fathered a live birth before age 15
+FE_TNBH_M_SEX,Teenage men who initiated sexual intercourse before age 15
+FE_TNBH_M_MAR,Teenage men who married before age 15
+FE_TNBH_W_BTH,Teenage women who had a live birth before age 15
+FE_TNBH_W_SEX,Teenage women who initiated sexual intercourse before age 15
+FE_TNBH_W_MAR,Teenage women who married before age 15
+FE_TNPG_W_LVB,Teenagers who are mothers
+FE_TNPG_W_PRG,Teenagers who are pregnant with their first child
+FE_TNPG_W_CBR,Teenagers who have begun childbearing
+RH_TTIJ_W_TT0,Tetanus injections before birth: None
+RH_TTIJ_W_TT1,Tetanus injections before birth: One dose
+RH_TTIJ_W_TOT,Tetanus injections before birth: Total
+RH_TTIJ_W_TT2,Tetanus injections before birth: Two doses or more
+RH_TTIJ_W_DKM,Tetanus injections before birth: don't know or missing
+RH_ANCT_W_T45,Timing of first antenatal check: 4-5 months
+RH_ANCT_W_T67,Timing of first antenatal check: 6-7 months
+RH_ANCT_W_T8P,Timing of first antenatal check: 8+ months
+RH_ANCT_W_TL4,Timing of first antenatal check: Less than 4 months
+RH_ANCT_W_NON,Timing of first antenatal check: No antenatal care
+RH_ANCT_W_TOT,Timing of first antenatal check: Total
+RH_ANCT_W_DKM,Timing of first antenatal check: don't know or missing information on timing
+FP_NADM_W_TDT,Total demand for family planning
+FP_NDYM_W_TDT,Total demand for family planning (married young women)
+FP_NADM_W_TDL,Total demand for family planning for limiting
+FP_NADA_W_TDL,Total demand for family planning for limiting (all women)
+FP_NDYA_W_TDL,Total demand for family planning for limiting (all young women)
+FP_NDYM_W_TDL,Total demand for family planning for limiting (married young women)
+FP_NADU_W_TDL,Total demand for family planning for limiting (sexually active unmarried women)
+FP_NDYU_W_TDL,Total demand for family planning for limiting (sexually active unmarried young women)
+FP_NADM_W_TDS,Total demand for family planning for spacing
+FP_NADA_W_TDS,Total demand for family planning for spacing (all women)
+FP_NDYA_W_TDS,Total demand for family planning for spacing (all young women)
+FP_NDYM_W_TDS,Total demand for family planning for spacing (married young women)
+FP_NADU_W_TDS,Total demand for family planning for spacing (sexually active unmarried women)
+FP_NDYU_W_TDS,Total demand for family planning for spacing (sexually active unmarried young women)
+FP_NADA_W_TDT,"Total demand for family planning, total (all women)"
+FP_NDYA_W_TDT,"Total demand for family planning, total (all young women)"
+FP_NADU_W_TDT,"Total demand for family planning, total (sexually active unmarried women)"
+FP_NDYU_W_TDT,"Total demand for family planning, total (sexually active unmarried young women)"
+FE_FRTR_W_TF4,Total fertility rate 15-44
+FE_FRTR_W_TFR,Total fertility rate 15-49
+PR_WTFR_W_WFR,Total wanted fertility rate
+CH_DIAT_C_ADV,Treatment of diarrhea: Advice or treatment was sought
+CH_DIAT_C_ORT,Treatment of diarrhea: Either ORS or RHF
+CH_DIAT_C_HOM,Treatment of diarrhea: Home remedy - other
+CH_DIAT_C_INC,Treatment of diarrhea: Increased fluids
+CH_DIAT_C_IVS,Treatment of diarrhea: Intravenous solution
+CH_DIAT_C_NON,"Treatment of diarrhea: No ORS, RHF or increased fluids"
+CH_DIAT_C_NOT,Treatment of diarrhea: No treatment
+CH_DIAT_C_OSI,Treatment of diarrhea: ORS or increased fluids
+CH_DIAT_C_ORI,Treatment of diarrhea: ORT or increased fluids
+CH_DIAT_C_ORS,Treatment of diarrhea: Oral rehydration solution (ORS)
+CH_DIAT_C_RHF,Treatment of diarrhea: Recommended home fluids (RHF) at home
+CH_DIAT_C_DKM,Treatment of diarrhea: don't know or missing
+CM_ECMR_C_U5M,Under-five mortality rate
+CM_ECMT_C_U5M,Under-five mortality rate (5 year periods)
+CM_ECMT_C_U5L,Under-five mortality rate (5 year periods) - CI lower bound (-2SE)
+CM_ECMT_C_U5U,Under-five mortality rate (5 year periods) - CI upper bound (+2SE)
+CM_ECMT_C_U5X,Under-five mortality rate (5 year periods) - relative error
+CM_ECMT_C_U5E,Under-five mortality rate (5 year periods) - standard error
+CM_ECMR_C_U5L,Under-five mortality rate - CI lower bound (-2SE)
+CM_ECMR_C_U5U,Under-five mortality rate - CI upper bound (+2SE)
+CM_ECMR_C_U5X,Under-five mortality rate - relative error
+CM_ECMR_C_U5E,Under-five mortality rate - standard error
+FP_NADM_W_UNT,Unmet need for family planning
+FP_NDYM_W_UNT,Unmet need for family planning (married young women)
+FP_NADM_W_UNL,Unmet need for family planning for limiting
+FP_NADA_W_UNL,Unmet need for family planning for limiting (all women)
+FP_NDYA_W_UNL,Unmet need for family planning for limiting (all young women)
+FP_NDYM_W_UNL,Unmet need for family planning for limiting (married young women)
+FP_NADU_W_UNL,Unmet need for family planning for limiting (sexually active unmarried women)
+FP_NDYU_W_UNL,Unmet need for family planning for limiting (sexually active unmarried young women)
+FP_NADM_W_UNS,Unmet need for family planning for spacing
+FP_NADA_W_UNS,Unmet need for family planning for spacing (all women)
+FP_NDYA_W_UNS,Unmet need for family planning for spacing (all young women)
+FP_NDYM_W_UNS,Unmet need for family planning for spacing (married young women)
+FP_NADU_W_UNS,Unmet need for family planning for spacing (sexually active unmarried women)
+FP_NDYU_W_UNS,Unmet need for family planning for spacing (sexually active unmarried young women)
+FP_NADA_W_UNT,"Unmet need for family planning, total (all women)"
+FP_NDYA_W_UNT,"Unmet need for family planning, total (all young women)"
+FP_NADU_W_UNT,"Unmet need for family planning, total (sexually active unmarried women)"
+FP_NDYU_W_UNT,"Unmet need for family planning, total (sexually active unmarried young women)"
+FP_NADM_W_UMT,Unmet need for modern methods
+FP_NDYM_W_UMT,Unmet need for modern methods (married young women)
+FP_NADM_W_UML,Unmet need for modern methods for limiting
+FP_NADA_W_UML,Unmet need for modern methods for limiting (all women)
+FP_NDYA_W_UML,Unmet need for modern methods for limiting (all young women)
+FP_NDYM_W_UML,Unmet need for modern methods for limiting (married young women)
+FP_NADU_W_UML,Unmet need for modern methods for limiting (sexually active unmarried women)
+FP_NDYU_W_UML,Unmet need for modern methods for limiting (sexually active unmarried young women)
+FP_NADM_W_UMS,Unmet need for modern methods for spacing
+FP_NADA_W_UMS,Unmet need for modern methods for spacing (all women)
+FP_NDYA_W_UMS,Unmet need for modern methods for spacing (all young women)
+FP_NDYM_W_UMS,Unmet need for modern methods for spacing (married young women)
+FP_NADU_W_UMS,Unmet need for modern methods for spacing (sexually active unmarried women)
+FP_NDYU_W_UMS,Unmet need for modern methods for spacing (sexually active unmarried young women)
+FP_NADA_W_UMT,"Unmet need for modern methods, total (all women)"
+FP_NDYA_W_UMT,"Unmet need for modern methods, total (all young women)"
+FP_NADU_W_UMT,"Unmet need for modern methods, total (sexually active unmarried women)"
+FP_NDYU_W_UMT,"Unmet need for modern methods, total (sexually active unmarried young women)"
+SV_BACK_M_UNW,Unweighted number of men
+SV_BACK_W_UNW,Unweighted number of women
+FP_ICHC_W_HFP,Users informed about other methods
+FP_ICHC_W_SID,Users informed about side effect or problems of method used
+FP_ICHC_W_MII,Users informed of all three (Method Information Index)
+FP_ICHC_W_WDO,Users informed what to do if experienced side effects
+FP_SOCM_W_PIL,Using social marketing brand of pill
+CH_VACP_C_SN1,Vaccination card seen (12-23)
+CH_VACP_C_SN2,Vaccination card seen (24-35)
+SV_BACK_M_NUM,Weighted number of men
+SV_BACK_W_NUM,Weighted number of women
+WE_AWBT_M_AGR,Wife beating justified for at least one specific reason [Men]
+WE_AWBT_W_AGR,Wife beating justified for at least one specific reason [Women]
+WE_AWBT_M_ARG,Wife beating justified if she argues with him [Men]
+WE_AWBT_W_ARG,Wife beating justified if she argues with him [Women]
+WE_AWBT_M_BFD,Wife beating justified if she burns the food [Men]
+WE_AWBT_W_BFD,Wife beating justified if she burns the food [Women]
+WE_AWBT_M_OUT,Wife beating justified if she goes out without telling him [Men]
+WE_AWBT_W_OUT,Wife beating justified if she goes out without telling him [Women]
+WE_AWBT_M_NEG,Wife beating justified if she neglects the children [Men]
+WE_AWBT_W_NEG,Wife beating justified if she neglects the children [Women]
+WE_AWBT_M_REF,Wife beating justified if she refuses to have sex with him [Men]
+WE_AWBT_W_REF,Wife beating justified if she refuses to have sex with him [Women]
+HA_ANSS_M_RSX,Woman is justified in refusing to have sexual intercourse with her husband if she knows he has sex with other women [Men]
+HA_ANSS_W_RSX,Woman is justified in refusing to have sexual intercourse with her husband if she knows he has sex with other women [Women]
+EM_EMPL_W_TOT,Women : Total
+FE_MENO_W_PCT,Women age 30-49 menopausal
+FG_PFCC_W_WCC,Women circumcised (FGC)
+FG_AFCC_W_A10,Women circumcised at age 10-14
+FG_AFCC_W_A15,Women circumcised at age 15+
+FG_AFCC_W_A05,Women circumcised at age 5-9
+FG_AFCC_W_A00,Women circumcised before age 5
+FG_PPCW_W_DOC,Women circumcised by a doctor
+FG_PPCW_W_MED,Women circumcised by a medical professional
+FG_PPCW_W_NRS,Women circumcised by a nurse/midwife
+FG_PPCW_W_TRD,Women circumcised by a traditional agent
+FG_PPCW_W_TBA,Women circumcised by a traditional birth attendant
+FG_PPCW_W_TCC,Women circumcised by a traditional circumciser
+FG_PPCW_W_DKM,Women circumcised with don't know/ missing on the person who performed the circumcision
+FG_PPCW_W_TOT,Women circumcised: total 
+EM_EMPT_W_FAM,Women employed by family member
+EM_EMPT_W_NFM,Women employed by non-family member
+HA_CPHT_W_EVT,Women ever receiving an HIV test
+MA_MBAG_W_B15,Women first married by exact age 15
+MA_MBAG_W_B18,Women first married by exact age 18
+MA_MBAG_W_B20,Women first married by exact age 20
+MA_MBAG_W_B22,Women first married by exact age 22
+MA_MBAG_W_B25,Women first married by exact age 25
+EM_WERN_W_OTH,Women for whom 'other' decides how their earnings are used
+ED_LITR_W_NCD,Women for whom no card with required language was available
+FE_BBAG_W_A15,Women giving birth by age 15
+FE_BBAG_W_A18,Women giving birth by age 18
+FE_BBAG_W_A20,Women giving birth by age 20
+FE_BBAG_W_A22,Women giving birth by age 22
+FE_BBAG_W_A25,Women giving birth by age 25
+MA_MBAG_W_NMA,Women never married
+FP_CUSA_W_NCU,Women not currently using any method
+HA_STIS_W_DIS,Women reporting a bad smelling or abnormal genital discharge
+HA_STIS_W_SOR,Women reporting a genital sore or ulcer
+HA_STIS_W_STI,Women reporting an STI
+HA_STIS_W_AST,"Women reporting an STI, genital dicharge, or a sore or ulcer"
+EM_EMPT_W_SEM,Women self-employed
+FG_OFCR_W_DKM,Women that don't know if religion requires female circumcision
+ED_LITR_W_LIT,Women who are literate
+AN_NUTS_W_TH1,Women who are mildly thin according to BMI (17.0-18.4)
+AN_NUTS_W_TH2,Women who are moderately thin according to BMI (<17.0)
+AN_NUTS_W_OBS,Women who are obese according to BMI (>=30.0)
+AN_NUTS_W_OVW,Women who are overweight according to BMI (25.0-29.9)
+AN_NUTS_W_OWT,Women who are overweight or obese according to BMI (>=25.0)
+AN_NUTS_W_THN,Women who are thin according to BMI (<18.5)
+FG_OFCC_W_CNT,Women who believe that female circumcision should be continued
+FG_OFCC_W_NCN,Women who believe that female circumcision should not be continued
+ED_LITR_W_RDW,Women who can read a whole sentence
+ED_LITR_W_RDP,Women who can read part of a sentence
+ED_LITR_W_NRD,Women who cannot read at all
+EM_WERN_W_JNT,Women who decide jointly with partner how their earnings are used
+EM_WERN_W_WIF,Women who decide themselves how their earnings are used
+EM_EMPL_W_N12,Women who did no work in the last 12 months
+FG_OFCC_W_DKM,Women who do not know whether female circumcision should be continued
+AH_TOBC_W_NON,Women who do not smoke
+HA_MSXP_W_NCP,"Women who had sexual intercourse with non-marital, non-cohabiting partner"
+HA_KAID_W_HRD,Women who have heard of HIV or AIDS
+HA_CPHT_W_KNW,Women who know where to get an HIV test
+ED_MDIA_W_RDO,Women who listen to the radio at least once a week
+FE_BBAG_W_NEV,Women who never gave birth
+ED_MDIA_W_NWS,Women who read a newspaper at least once a week
+AH_TOBC_W_ANY,Women who smoke any type of tobacco
+AH_TOBC_W_CIG,Women who smoke cigarettes
+AH_TOBC_W_PIP,Women who smoke pipe
+PR_DESL_W_WNM,Women who want no more children
+ED_MDIA_W_TLV,Women who watch television at least once a week
+EM_EMPT_W_AYR,Women who worked all year
+EM_EMPT_W_CAK,Women who worked for cash and in-kind payment
+EM_EMPT_W_CSH,Women who worked for cash only
+EM_EMPT_W_KND,Women who worked for in-kind payment only
+EM_EMPL_W_EMC,Women who worked in the last 12 months and are currently
+EM_EMPL_W_ENC,"Women who worked in the last 12 months, but not currently"
+EM_EMPT_W_OCC,Women who worked occasionally
+EM_EMPT_W_SES,Women who worked seasonally
+EM_EMPT_W_NPD,Women who worked unpaid
+EM_WERN_W_HUS,Women whose partner decides how their earnings are used
+FE_CEBA_W_CH1,Women with 1 child ever born
+FE_CEBA_W_C10,Women with 10+ children ever born
+FE_CEBA_W_CH2,Women with 2 children ever born
+FE_CEBA_W_CH3,Women with 3 children ever born
+FE_CEBA_W_CH4,Women with 4 children ever born
+FE_CEBA_W_CH5,Women with 5 children ever born
+FE_CEBA_W_CH6,Women with 6 children ever born
+FE_CEBA_W_CH7,Women with 7 children ever born
+FE_CEBA_W_CH8,Women with 8 children ever born
+FE_CEBA_W_CH9,Women with 9 children ever born
+ED_MDIA_W_3MD,"Women with access to newspaper, television and radio at least once a week"
+AN_ANEM_W_ANY,Women with any anemia
+ED_EDUC_W_CPR,Women with completed primary education
+ED_EDUC_W_CSC,Women with completed secondary education
+EM_OCCP_W_DKM,Women with don't know or missing information on occupation
+EM_EMPT_W_TMS,Women with don't know or missing information on recent work
+EM_EMPL_W_DKM,Women with don't know or missing information on whether they worked in the last 12 months
+EM_WERN_W_DKM,Women with don't know or missing information on who decides how their earnings are used
+AN_NUTS_W_SHT,Women with height below 145 cm
+AN_ANEM_W_MLD,Women with mild anemia
+ED_LITR_W_MIS,Women with missing information on literacy
+EM_EMPT_W_CMS,Women with missing information on type of earnings
+EM_EMPT_W_EMS,Women with missing information on type of employer
+AN_ANEM_W_MOD,Women with moderate anemia
+ED_EDUC_W_HGH,Women with more than secondary education
+ED_MDIA_W_N3M,Women with no access to mass media
+FE_CEBA_W_CH0,Women with no children ever born
+ED_EDUC_W_NED,Women with no education
+AN_NUTS_W_NRM,Women with normal BMI (18.5-24.9)
+ED_EDUC_W_PRI,Women with primary education
+ED_EDUC_W_SEH,Women with secondary or higher education
+ED_LITR_W_SCH,Women with secondary or higher education
+AN_ANEM_W_SEV,Women with severe anemia
+ED_EDUC_W_SPR,Women with some primary education
+ED_EDUC_W_SSC,Women with some secondary education
+ED_LITR_W_TOT,Women's literacy: Total
+EM_OCCP_W_AGR,Women's occupation: Agriculture
+EM_OCCP_W_CLR,Women's occupation: Clerical
+EM_OCCP_W_DOM,Women's occupation: Household & domestic
+EM_OCCP_W_OTH,Women's occupation: Other
+EM_OCCP_W_PRO,"Women's occupation: Professional, technical, managerial"
+EM_OCCP_W_SAL,"Women's occupation: Sales, services"
+EM_OCCP_W_MNS,Women's occupation: Skilled manual
+EM_OCCP_W_TOT,Women's occupation: Total
+EM_OCCP_W_MNU,Women's occupation: Unskilled manual
+FG_OFCR_W_NRQ,Women's opinion that religion does not requires female circumcision
+FG_OFCR_W_REQ,Women's opinion that religion requires female circumcision
+ED_EDUC_W_TOT,Women: Total
+MA_MSTA_W_TOT,Women: Total
+EM_EMPT_W_TTO,Women: Total
+SX_LSEX_W_TOT,Women: Total
+FE_CEBA_W_TOT,Women: Total
+PR_IDLC_W_TOT,Women: Total
+FP_CUSA_W_TOT,Women: Total
+FP_KFTP_W_TOT,Women: Total
+FG_OFCC_W_TOT,Women: Total
+FG_OFCR_W_TOT,Women: Total
+MM_AMRT_M_EXP,Years of exposure to the risk of mortality for men
+MM_AMRT_M_EXU,Years of exposure to the risk of mortality for men (unweighted)
+MM_AMRT_W_EXP,Years of exposure to the risk of mortality for women
+MM_MMRT_W_EXP,Years of exposure to the risk of mortality for women
+MM_AMRT_W_EXU,Years of exposure to the risk of mortality for women (unweighted)
+MM_MMRT_W_EXU,Years of exposure to the risk of mortality for women (unweighted)
+SX_SACY_M_SAC,Young men age 15-19 who are sexually active
+SX_SACY_M_ESX,Young men age 15-19 who ever had sexual intercourse
+MA_MBAY_M_B15,Young men age 20-24 first married by exact age 15
+MA_MBAY_M_B18,Young men age 20-24 first married by exact age 18
+MA_MBAY_M_B20,Young men age 20-24 first married by exact age 20
+MA_MBAY_M_NMA,Young men age 20-24 never married
+ED_LITY_M_NCD,Young men for whom no card with required language was available
+HA_MSPY_M_2PP,Young men having multiple partners in last year
+HA_PSXY_M_SX1,Young men having premarital sex in last year
+HA_PSXY_M_NSX,Young men never having sexual intercourse
+HA_MSPY_M_CND,Young men using a condom at last sexual intercourse
+HA_PSXY_M_CND,Young men using a condom during premarital sex
+ED_LITY_M_LIT,Young men who are literate
+ED_LITY_M_RDW,Young men who can read a whole sentence
+ED_LITY_M_RDP,Young men who can read part of a sentence
+ED_LITY_M_NRD,Young men who cannot read at all
+HA_MSPY_M_NCP,"Young men who had sexual intercourse with non-marital, non-cohabiting partner in last year"
+ED_LITY_M_MIS,Young men with missing information on literacy
+ED_LITY_M_SCH,Young men with secondary or higher education
+ED_LITY_M_TOT,Young men's literacy: Total
+MA_MSTY_M_TOT,Young men: Total
+SX_SACY_W_SAC,Young women age 15-19 who are sexually active
+SX_SACY_W_ESX,Young women age 15-19 who ever had sexual intercourse
+MA_MBAY_W_B15,Young women age 20-24 first married by exact age 15
+MA_MBAY_W_B18,Young women age 20-24 first married by exact age 18
+MA_MBAY_W_B20,Young women age 20-24 first married by exact age 20
+FE_BBAY_W_A15,Young women age 20-24 giving birth by age 15
+FE_BBAY_W_A18,Young women age 20-24 giving birth by age 18
+FE_BBAY_W_A20,Young women age 20-24 giving birth by age 20
+MA_MBAY_W_NMA,Young women age 20-24 never married
+FE_BBAY_W_NEV,Young women age 20-24 who never gave birth
+ED_LITY_W_NCD,Young women for whom no card with required language was available
+HA_MSPY_W_2PP,Young women having multiple partners in last year
+HA_PSXY_W_SX1,Young women having premarital sex in last year
+HA_PSXY_W_NSX,Young women never having sexual intercourse
+FP_CUSY_W_NCU,Young women not currently using any method
+HA_MSPY_W_CND,Young women using a condom at last sexual intercourse
+HA_PSXY_W_CND,Young women using a condom during premarital sex
+ED_LITY_W_LIT,Young women who are literate
+ED_LITY_W_RDW,Young women who can read a whole sentence
+ED_LITY_W_RDP,Young women who can read part of a sentence
+ED_LITY_W_NRD,Young women who cannot read at all
+HA_MSPY_W_NCP,"Young women who had sexual intercourse with non-marital, non-cohabiting partner in last year"
+ED_LITY_W_MIS,Young women with missing information on literacy
+ED_LITY_W_SCH,Young women with secondary or higher education
+ED_LITY_W_TOT,Young women's literacy: Total
+FP_CUSY_W_TOT,Young women: Total
+MA_MSTY_W_TOT,Young women: Total
