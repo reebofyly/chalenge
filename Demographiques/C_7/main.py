@@ -1,139 +1,119 @@
-# =========================================================
-# TÂCHE 1 : COLLECTE ET PRÉPARATION DES DONNÉES
+# ==============================================================================
+# TÂCHE 1 : ÉTAPE 7 — COLLECTE ET CONSOLIDATION DES DONNÉES SUR L'ÉDUCATION
 # Projet : ANIP AI/Data Challenge 2025
-# Objectif : Télécharger, nettoyer et structurer les données de scolarisation primaire brut féminine du Bénin
-# Source : Banque Mondiale - Indicateur Indicateur SE.PRM.ENRR.FE (https://api.worldbank.org/v2/en/indicator/SE.PRM.ENRR.MA?downloadformat=csv)
+# Objectif : Télécharger, nettoyer et consolider plusieurs indicateurs sur
+#            l'éducation au Bénin à partir de l'API de la Banque Mondiale.
+# Source : World Bank Open Data API (https://data.worldbank.org/)
 # Auteur : SOULE Fadile
-# Date : 20/09/25
-# =========================================================
-
+# Date : 21/09/25
+# ==============================================================================
 
 import pandas as pd
 import requests
 import zipfile
 import io
 import os
+import sys
+from functools import reduce
 
-# === Configuration des chemins ===
-DATA_RAW_DIR = "/content/data/raw"
-DATA_CLEANED_DIR = "/content/data/cleaned"
+# --- CONFIGURATION ---
+DATA_RAW_DIR = "data/raw"
+DATA_CLEANED_DIR = "data/cleaned"
+COUNTRY_NAME = "Benin"
 
-# Création des répertoires si nécessaire
-os.makedirs(DATA_RAW_DIR, exist_ok=True)
-os.makedirs(DATA_CLEANED_DIR, exist_ok=True)
+# Dictionnaire central des indicateurs à télécharger
+# Clé = Code de l'indicateur, Valeur = Nom de la colonne dans le fichier final
+INDICATORS = {
+    "SE.PRM.ENRR": "tx_scolarisation_primaire_brut",
+    "SE.PRM.ENRR.FE": "tx_scolarisation_primaire_feminin",
+    "SE.PRM.TCAQ.ZS": "pct_enseignants_formes",
+    "SE.PRM.TCAQ.FE.ZS": "pct_enseignantes_formees",
+    "SE.PRM.TCAQ.MA.ZS": "pct_enseignants_hommes_formes",
+    "SE.PRM.PRSL.MA.ZS": "tx_persistance_primaire_masculin"
+}
 
-# === ÉTAPE 1 : Définition de l’indicateur et de l’URL ===
-indicator_code = "SE.PRM.ENRR.FE"  # Taux de scolarisation primaire brut des filles
-url = f"https://api.worldbank.org/v2/en/indicator/{indicator_code}?downloadformat=csv"
+def process_indicator(indicator_code, value_name):
+    """
+    Télécharge, nettoie et formate les données pour un indicateur de la Banque Mondiale.
+    """
+    print(f"\nTraitement de l'indicateur : {indicator_code}...")
+    
+    # Étape 1: Téléchargement
+    url = f"https://api.worldbank.org/v2/en/indicator/{indicator_code}?downloadformat=csv"
+    try:
+        response = requests.get(url)
+        response.raise_for_status()
+    except requests.exceptions.RequestException as e:
+        print(f"ERREUR: Téléchargement échoué pour {indicator_code}. Détails: {e}")
+        return None
 
-print(f"Téléchargement du fichier ZIP pour l'indicateur : {indicator_code}")
-response = requests.get(url)
-response.raise_for_status()  # Lève une exception en cas d'erreur HTTP
+    # Étape 2: Extraction
+    try:
+        with zipfile.ZipFile(io.BytesIO(response.content), "r") as z:
+            data_file = next(f for f in z.namelist() if f.startswith(f"API_{indicator_code}") and "Metadata" not in f)
+            with z.open(data_file) as csvfile:
+                df = pd.read_csv(csvfile, skiprows=4)
+    except (zipfile.BadZipFile, StopIteration, FileNotFoundError) as e:
+        print(f"ERREUR: Impossible d'extraire le CSV pour {indicator_code}. Détails: {e}")
+        return None
 
-# Sauvegarde locale du fichier ZIP
-zip_path = os.path.join(DATA_RAW_DIR, f"wb_school_enrollment_female_benin.zip")
-with open(zip_path, "wb") as f:
-    f.write(response.content)
+    # Étape 3: Filtrage et Transformation
+    if "Country Name" not in df.columns or df[df["Country Name"] == COUNTRY_NAME].empty:
+        print(f"AVERTISSEMENT: Aucune donnée trouvée pour {COUNTRY_NAME} dans l'indicateur {indicator_code}.")
+        return None
 
-print(f"Fichier ZIP téléchargé : {zip_path}")
+    benin_data = df[df["Country Name"] == COUNTRY_NAME].copy()
+    
+    years = [str(year) for year in range(1960, 2025)]
+    id_vars = ["Country Name", "Country Code"]
+    cols_to_keep = id_vars + [y for y in years if y in benin_data.columns]
+    
+    df_benin_long = benin_data[cols_to_keep].melt(
+        id_vars=id_vars,
+        var_name="annee",
+        value_name=value_name
+    )
 
-# === ÉTAPE 2 : Extraction des fichiers contenus dans le ZIP ===
-print("Extraction des fichiers du ZIP...")
+    # Étape 4: Nettoyage
+    df_benin_long["annee"] = pd.to_numeric(df_benin_long["annee"], errors="coerce")
+    df_benin_long.dropna(subset=[value_name], inplace=True)
+    df_benin_long["annee"] = df_benin_long["annee"].astype(int)
+    
+    df_final = df_benin_long[["annee", value_name]]
+    print(f"Traitement réussi. {len(df_final)} observations valides trouvées.")
+    return df_final
 
-with zipfile.ZipFile(zip_path, "r") as z:
-    file_list = z.namelist()
-    print("Fichiers contenus dans le ZIP :")
-    for filename in file_list:
-        print(f"  - {filename}")
+# --- SCRIPT PRINCIPAL ---
+if __name__ == "__main__":
+    print("Script 7: Démarrage de la collecte des données sur l'éducation de la Banque Mondiale.")
+    
+    os.makedirs(DATA_RAW_DIR, exist_ok=True)
+    os.makedirs(DATA_CLEANED_DIR, exist_ok=True)
+    
+    all_dfs = []
+    
+    for code, name in INDICATORS.items():
+        processed_df = process_indicator(code, name)
+        if processed_df is not None:
+            all_dfs.append(processed_df)
+            
+    if not all_dfs:
+        print("ERREUR: Aucune donnée n'a pu être collectée. Le script s'arrête.")
+        sys.exit(1)
 
-    # Recherche du fichier de données principal (non métadonnées)
-    data_file = None
-    for filename in file_list:
-        if filename.startswith(f"API_{indicator_code}") and "Metadata" not in filename and filename.endswith(".csv"):
-            data_file = filename
-            break
-
-    if not data_file:
-        raise FileNotFoundError(
-            f"Aucun fichier de données principal (CSV) trouvé dans le ZIP pour l'indicateur {indicator_code}. "
-            "Vérifiez le code indicateurs ou le fichier téléchargé."
-        )
-
-    print(f"Fichier de données identifié : {data_file}")
-
-    # Extraction du fichier CSV dans le dossier raw
-    z.extract(data_file, DATA_RAW_DIR)
-
-# === ÉTAPE 3 : Chargement du fichier CSV avec saut des lignes d'en-tête ===
-csv_path = os.path.join(DATA_RAW_DIR, data_file)
-print(f"Chargement du fichier CSV : {csv_path}")
-
-# Les 4 premières lignes sont des métadonnées ; elles doivent être ignorées
-df = pd.read_csv(csv_path, skiprows=4)
-
-print(f"Dimensions du jeu de données : {df.shape[0]} pays × {df.shape[1]} colonnes")
-
-# === ÉTAPE 4 : Filtrage des données pour le Bénin ===
-benin_data = df[df["Country Name"] == "Benin"].copy()
-
-if benin_data.empty:
-    raise ValueError("Aucune donnée trouvée pour le Bénin. Vérifiez le code pays ou le fichier source.")
-
-print(f"Données du Bénin extraites : {len(benin_data)} ligne(s)")
-
-# === ÉTAPE 5 : Sélection des années et préparation des colonnes ===
-# Définir la plage d'années couverte (1960 à 2024)
-years = [str(year) for year in range(1960, 2025)]
-
-# Colonnes nécessaires : identifiants + années
-cols_to_keep = [
-    "Country Name",
-    "Country Code",
-    "Indicator Name",
-    "Indicator Code"
-] + years
-
-df_benin_clean = benin_data[cols_to_keep]
-
-# === ÉTAPE 6 : Transformation du format large en format long ===
-df_benin_long = df_benin_clean.melt(
-    id_vars=["Country Name", "Country Code", "Indicator Name", "Indicator Code"],
-    var_name="Année",
-    value_name="Taux_Scolarisation_Primaire_Feminine"
-)
-
-print(f"Format transformé : {len(df_benin_long)} lignes après pivotage")
-
-# === ÉTAPE 7 : Nettoyage des données ===
-# Conversion de la colonne Année en entier
-df_benin_long["Année"] = pd.to_numeric(df_benin_long["Année"], errors="coerce")
-
-# Suppression des valeurs manquantes pour le taux de scolarisation
-df_benin_long = df_benin_long.dropna(subset=["Taux_Scolarisation_Primaire_Feminine"])
-
-# Conservation uniquement des colonnes essentielles
-df_benin_final = df_benin_long[[
-    "Country Name",
-    "Country Code",
-    "Année",
-    "Taux_Scolarisation_Primaire_Feminine"
-]]
-
-# Vérification finale des types
-df_benin_final["Année"] = df_benin_final["Année"].astype(int)
-
-print(f"Données nettoyées : {len(df_benin_final)} observations valides")
-print(f"Période couverte : {df_benin_final['Année'].min()} à {df_benin_final['Année'].max()}")
-
-# === ÉTAPE 8 : Sauvegarde du jeu de données final ===
-output_path = os.path.join(DATA_CLEANED_DIR, "wb_school_enrollment_female_benin.csv")
-df_benin_final.to_csv(output_path, index=False, encoding="utf-8")
-
-print(f"Fichier final sauvegardé : {output_path}")
-
-# === ÉTAPE 9 : Aperçu des premières et dernières lignes ===
-print("\nAperçu des 10 premières lignes :")
-print(df_benin_final.head(10).to_string(index=False))
-
-print("\nAperçu des 10 dernières lignes :")
-print(df_benin_final.tail(10).to_string(index=False))
+    # --- Étape finale: Consolidation ---
+    print("\nConsolidation de tous les indicateurs d'éducation...")
+    
+    # Fusionner tous les DataFrames sur la colonne 'annee'
+    df_consolidated = reduce(lambda left, right: pd.merge(left, right, on='annee', how='outer'), all_dfs)
+    
+    # Trier par année
+    df_consolidated.sort_values('annee', inplace=True)
+    
+    output_path = os.path.join(DATA_CLEANED_DIR, "education_indicators_benin_consolidated.csv")
+    df_consolidated.to_csv(output_path, index=False, encoding="utf-8-sig")
+    
+    print("\nScript terminé.")
+    print(f"Le dataset consolidé sur l'éducation a été sauvegardé dans : '{output_path}'")
+    print("\nAperçu du dataset final :")
+    print(df_consolidated.tail(15))
